@@ -1,0 +1,11 @@
+{
+  "name": "fu-share",
+  "author": "fpt student<thaycacac@gmail.om>",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress": "^1.5.2"
+  }
+}
