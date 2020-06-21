@@ -127,6 +127,10 @@ Hướng dẫn contribute tài liệu:
 
 ## Quizlet các môn
 
+Cộng đồng chia sẻ quizlet các môn, các bạn có thể join class và contribute để cùng nhau học thật, thi thật, thành công thật.
+
+[https://quizlet.com/join/3zu5dpjaX](https://quizlet.com/join/3zu5dpjaX)
+
 ## Chiến thuật thi FE, PE
 
 ## Tài liệu tham khảo
