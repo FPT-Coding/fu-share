@@ -12,9 +12,7 @@ meta:
 
 ## Mẫu đơn
 
-## Đề các môn LAB
-
-## Tổng hợp các đề môn lab
+## Tổng hợp các đề các môn LAB
 
 - LAB101: [https://drive.google.com/drive/folders/18iY3ewzkC4L4a24CavGez66gnN9OC7Am](https://drive.google.com/drive/folders/18iY3ewzkC4L4a24CavGez66gnN9OC7Am?usp=sharing)
 - LAB211: [https://drive.google.com/drive/folders/1WiB6heFAMTySzR6EBAFgKPA5trU3Wwgd](https://drive.google.com/drive/folders/1WiB6heFAMTySzR6EBAFgKPA5trU3Wwgd?usp=sharing)
@@ -27,7 +25,7 @@ meta:
 
 ### Chuyên ngành SE
 
-#### Kỳ 1:
+### Kỳ 1:
 
 **MAE101 - Mathematics for Engineering**
 
@@ -39,7 +37,7 @@ meta:
 
 **SSG101 - Working in Group Skills**
 
-#### Kỳ 2:
+### Kỳ 2:
 
 **DBI202 - Introduction to Databases**
 
@@ -51,7 +49,7 @@ meta:
 
 **LAB101 - C Lab**
 
-#### Kỳ 3:
+### Kỳ 3:
 
 **PRJ311 - Desktop Java Applications**
 
@@ -63,7 +61,7 @@ meta:
 
 **CSD201 - Data Structures and Algorithms**
 
-#### Kỳ 4:
+### Kỳ 4:
 
 **NWC202 - Computer Networking**
 
@@ -75,7 +73,7 @@ meta:
 
 **LAB221 - Desktop Java Lab**
 
-#### Kỳ 5:
+### Kỳ 5:
 
 **JPD131 - Elementary Japanese 2.1**
 
@@ -87,13 +85,13 @@ meta:
 
 **PRN292 - .NET and C**
 
-#### Kỳ 6:
+### Kỳ 6:
 
 **SYB301 - Start Your Business**
 
 **OJT**
 
-#### Kỳ 7:
+### Kỳ 7:
 
 **ACC101 - Principles of Accounting**
 
@@ -105,7 +103,7 @@ meta:
 
 **ISC301 - e-Commerce**
 
-#### Kỳ 8:
+### Kỳ 8:
 
 **MAS291 - Statistics and Probability**
 
@@ -123,7 +121,7 @@ Hướng dẫn contribute tài liệu:
 - B2: submit lên form [https://docs.google.com/forms/d/e/1FAIpQLSepERJPKZgAKswsd_tkUTCzDeKwXzIjtCcW8r454ZYQ0XcKrw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSepERJPKZgAKswsd_tkUTCzDeKwXzIjtCcW8r454ZYQ0XcKrw/viewform)
 - B3: khi bài viết của bạn được duyệt, admin sẽ gửi mail cho bạn, cập nhật lên handbook và đăng lên nhóm FU Share
 
-#### Kỳ 9:
+### Kỳ 9:
 
 ## Quizlet các môn
 
