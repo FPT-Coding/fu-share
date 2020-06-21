@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Giới thiệu FU Share',
+  title: 'FU Share',
   description: 'Sinh viên FPT - Học thật, Thi thật, Thành công thật',
   head: [
     [
