@@ -144,9 +144,9 @@ Cộng đồng chia sẻ quizlet các môn, các bạn có thể join class và 
 -	Hình thức thi: trắc nghiệm
 -	Nội dung thi: các câu hỏi liên quan đến toàn bộ kiến thức đã học trong kỳ
 -	Về cách ôn tập: Đọc lại slide của môn học, note lại các phần kiến thức quan trọng, ghi nhớ các kiến thức đó.
-•	Cách ôn thi FE truyền thống của sinh viên FPT: học key.
-+ Cách tìm key: xin bạn bè hoặc các anh chị khóa gần nhất hoặc search trên quizlet. Hoặc bạn có thể tìm trong danh sách tài liệu của group FU-Share.
-+ Cách học key: có 2 hướng đi trong việc học key:
+-	Cách ôn thi FE truyền thống của sinh viên FPT: học key.
+  - Cách tìm key: xin bạn bè hoặc các anh chị khóa gần nhất hoặc search trên quizlet. Hoặc bạn có thể tìm trong danh sách tài liệu của group FU-Share.
+  - Cách học key: có 2 hướng đi trong việc học key:
 	Thứ 1 là học thuộc câu hỏi và đáp án đúng (hoặc các keyword của câu hỏi và đáp án đúng).
 	Thứ 2 là đọc hiểu nội dung của câu hỏi và các đáp án. Take note lại những nội dung mà mình học được từ các câu hỏi và học các nội dung đó.
 -	Nên ôn luyện thi FE ít nhất 1 tuần trước ngày thi.
@@ -200,75 +200,75 @@ Phương pháp hay kỹ thuật Pomodoro rất đơn giản như sau: Khi phải
 Áp dụng Pomodoro sẽ giúp cải thiện năng suất làm việc một cách rõ rệt. Chris Winfield là một doanh nhân và là một huấn luyện viên làm việc tại New York, công việc của anh là giúp các tổ chức, cá nhân tăng năng suất. Chris đã tìm kiếm, thử nghiệm tất cả các phương pháp làm việc giúp tăng năng suất trước khi tình cờ biết đến Pomodoro. Hiện nay, Chris đang sử dụng 40 Pomodoro/tuần (khoảng17 giờ/tuần) để hoàn thành khối lượng công việc mà trước đó anh phải dành đến 60 giờ.
 Thật tuyệt khi bạn làm việc tập trung trong một “cuộc đua” ngắn, rồi ngay sau đó bạn nhận được những “quãng nghỉ” ngắn để thúc đẩy động lực và duy trì sự sáng tạo của mình.
 ##### 1. Tại sao lại nên dùng Kỹ thuật Pomodoro?
-•	Loại bỏ cảm giác mệt mỏi
-•	Tăng cường tập trung và Quản lý sự xao nhãng
-•	Nâng cao nhận thức đối với các quyết định của bạn
-•	Tăng động lực làm việc và giữ cho nó duy trì liên tục
-•	Củng cố quyết tâm thực hiện đạt được mục tiêu của bạn
-•	Ước lượng chính xác và thông minh thời gian bạn cần dùng để hoàn thành một công việc
-•	Hoàn thành công việc tốt hơn
-•	Cân bằng cuộc sống
+-	Loại bỏ cảm giác mệt mỏi
+-	Tăng cường tập trung và Quản lý sự xao nhãng
+-	Nâng cao nhận thức đối với các quyết định của bạn
+-	Tăng động lực làm việc và giữ cho nó duy trì liên tục
+-	Củng cố quyết tâm thực hiện đạt được mục tiêu của bạn
+-	Ước lượng chính xác và thông minh thời gian bạn cần dùng để hoàn thành một công việc
+-	Hoàn thành công việc tốt hơn
+-	Cân bằng cuộc sống
 ##### 2. Các bước thực hiện Kỹ thuật Pomodoro?
-•	Bước 1: Chọn một nhiệm vụ mà bạn muốn hoàn thành: Việc to hay nhỏ không quan trọng. Miễn đó là điều xứng đáng được bạn dành trọn vẹn sự tập trung, năng lượng và sự chú ý của mình.
-•	Bước 2: Cài đặt Pomodoro 25 phút (với công cụ đếm giờ): Hãy tự nhủ “Tôi sẽ dành 25 phút cho nhiệm vụ này và sẽ không bị gián đoạn”.
-•	Bước 3: Hoàn thành nhiệm vụ cho đến khi đồng hồ bấm giờ kêu: nếu trong lúc làm việc mà bạn nghĩ ra việc gì đó cần làm, hãy ghi lại nó ra giấy và ngay lập tức quay lại với công việc đang làm.
-•	Bước 4: Khi hoàn thành 1 Pomodoro hãy đánh dấu vào giấy hoặc bản theo dõi: Chúc mừng bạn đã dành thời gian trọn vẹn cho một nhiệm vụ mà không bị gián đoạn.
-•	Bước 5: Giải lao ngắn khoảng 5 phút. Hãy thực sự tận hưởng khoảng thời gian này.
-•	Bước 6: Sau khi hoàn thành 4 Pomodoro, hãy giải lao dài (20 phút). Đây là khoảng thời gian bạn xứng đáng được hưởng.
+-	Bước 1: Chọn một nhiệm vụ mà bạn muốn hoàn thành: Việc to hay nhỏ không quan trọng. Miễn đó là điều xứng đáng được bạn dành trọn vẹn sự tập trung, năng lượng và sự chú ý của mình.
+-	Bước 2: Cài đặt Pomodoro 25 phút (với công cụ đếm giờ): Hãy tự nhủ “Tôi sẽ dành 25 phút cho nhiệm vụ này và sẽ không bị gián đoạn”.
+-	Bước 3: Hoàn thành nhiệm vụ cho đến khi đồng hồ bấm giờ kêu: nếu trong lúc làm việc mà bạn nghĩ ra việc gì đó cần làm, hãy ghi lại nó ra giấy và ngay lập tức quay lại với công việc đang làm.
+-	Bước 4: Khi hoàn thành 1 Pomodoro hãy đánh dấu vào giấy hoặc bản theo dõi: Chúc mừng bạn đã dành thời gian trọn vẹn cho một nhiệm vụ mà không bị gián đoạn.
+-	Bước 5: Giải lao ngắn khoảng 5 phút. Hãy thực sự tận hưởng khoảng thời gian này.
+-	Bước 6: Sau khi hoàn thành 4 Pomodoro, hãy giải lao dài (20 phút). Đây là khoảng thời gian bạn xứng đáng được hưởng.
 Khoảng thời gian cho một Pomodoro thường là 25 phút, tuy nhiên khi đã thành thạo kỹ thuật này bạn có thể cài đặt Pomodoro trong vòng 15 – 30 phút.
 ##### 3. Thời gian giải lao bạn nên làm gì?
-•	Masseage nhẹ nhàng cho cổ, vai, mặt, v.v..
-•	Thực hành bài tập Yoga tại công sở.
-•	Thực hành các bài tập vận động nhẹ cho dân văn phòng.
-•	Đi lại trong văn phòng.
-•	Hát vang một bài hát bạn thích (nếu có không gian riêng tư).
-•	Nhảy nhót một chút cũng là ý tưởng rất hay.
-•	Đứng lên đi uống nước.
-•	Tự pha cho mình một ly café.
-•	Ăn một chút đồ ăn nhẹ, ví như hoa quả…
+-	Masseage nhẹ nhàng cho cổ, vai, mặt, v.v..
+-	Thực hành bài tập Yoga tại công sở.
+-	Thực hành các bài tập vận động nhẹ cho dân văn phòng.
+-	Đi lại trong văn phòng.
+-	Hát vang một bài hát bạn thích (nếu có không gian riêng tư).
+-	Nhảy nhót một chút cũng là ý tưởng rất hay.
+-	Đứng lên đi uống nước.
+-	Tự pha cho mình một ly café.
+-	Ăn một chút đồ ăn nhẹ, ví như hoa quả…
 Quan trọng nhất trong thời gian giải lao là bạn hãy tận hưởng nó thật trọn vẹn. Hãy di chuyển ra khỏi chỗ ngồi của mình, hãy vận động!
 ##### 4. Nếu đang trong Pomodoro mà bị làm phiền thì sao?
 Chắc chắn những vấn đề gây phiền nhiễu khi thực hiện Pomodoro là không đơn giản, thỉnh thoảng nó cần bạn phải chú ý và xử lý ngay lập tức. Nếu thường xuyên chắc chắn bạn phải xem lại kế hoạch làm việc của mình.
 Cirillo đề xuất chiến lược “inform, negotiate, schedule and call back” để xử lý vấn đề này:
-•	Inform: Thông báo cho đồng nghiệp là họ đang làm mình bị xao nhãng.
-•	Negotiate: Thương lượng với đồng nghiệp về thời gian bạn sẽ dành để xử lý, giải quyết vấn đề họ đưa ra. Ví dụ “Bạn vui lòng chờ tôi 20 phút nữa”.
-•	Schedule: Có kế hoạch follow-up ngay lập tức.
-•	Call back: Quay lại với vấn đề của đồng nghiệp ngay khi bạn đã sẵn sàng để xử lý nó hoặc khi đã hoàn thành Pomodoro.
+-	Inform: Thông báo cho đồng nghiệp là họ đang làm mình bị xao nhãng.
+-	Negotiate: Thương lượng với đồng nghiệp về thời gian bạn sẽ dành để xử lý, giải quyết vấn đề họ đưa ra. Ví dụ “Bạn vui lòng chờ tôi 20 phút nữa”.
+-	Schedule: Có kế hoạch follow-up ngay lập tức.
+-	Call back: Quay lại với vấn đề của đồng nghiệp ngay khi bạn đã sẵn sàng để xử lý nó hoặc khi đã hoàn thành Pomodoro.
 ##### 5. Lợi ích thực sự của Kỹ thuật Pomodoro là gì?
 Kỹ thuật Pomodoro sẽ giúp bạn tạo thói quen hoàn thành mọi việc ngay hôm nay, giúp bạn tiết kiệm được thời gian trong tương lai. Thật không quá để nói rằng Kỹ thuật Pomodoro sẽ thay đổi bạn, bởi:
-•	Bạn sẽ rất nỗ lực để hoàn thành yêu cầu của công việc trong khoảng thời gian hữu hạn.
-•	Bạn sẽ phải loại bỏ sự gián đoạn hoặc tìm cách xử lý nó mà không ảnh hưởng đến việc tập trung giải quyết nhiệm vụ chính\cần thiết của mình. Bạn biết quy tắc 80/20 chứ?
-•	Bạn sẽ ước tính được các nỗ lực cần thiết cho từng hoạt động. Nó sẽ giúp bạn kiểm soát, quản lý thời gian và tối ưu hóa công việc.
-•	Bạn sẽ tìm cách để tối đa hóa hiệu quả công việc trong 1 Pomodoro.
-•	Bạn sẽ cài đặt thời gian biểu của mình một cách khoa học. Kỹ thuật này cho phép bạn giới hạn thời gian, tạo động lực hoàn thành các công việc. Bởi vậy bạn sẽ có thời gian vui chơi, tận hưởng cuộc sống trọn vẹn.
-•	Bạn sẽ xác định các mục tiêu riêng của mình. Ví dụ bạn muốn viết xong một bài báo chỉ trong 3 Pomodoro.
+-	Bạn sẽ rất nỗ lực để hoàn thành yêu cầu của công việc trong khoảng thời gian hữu hạn.
+-	Bạn sẽ phải loại bỏ sự gián đoạn hoặc tìm cách xử lý nó mà không ảnh hưởng đến việc tập trung giải quyết nhiệm vụ chính\cần thiết của mình. Bạn biết quy tắc 80/20 chứ?
+-	Bạn sẽ ước tính được các nỗ lực cần thiết cho từng hoạt động. Nó sẽ giúp bạn kiểm soát, quản lý thời gian và tối ưu hóa công việc.
+-	Bạn sẽ tìm cách để tối đa hóa hiệu quả công việc trong 1 Pomodoro.
+-	Bạn sẽ cài đặt thời gian biểu của mình một cách khoa học. Kỹ thuật này cho phép bạn giới hạn thời gian, tạo động lực hoàn thành các công việc. Bởi vậy bạn sẽ có thời gian vui chơi, tận hưởng cuộc sống trọn vẹn.
+-	Bạn sẽ xác định các mục tiêu riêng của mình. Ví dụ bạn muốn viết xong một bài báo chỉ trong 3 Pomodoro.
 ##### 6. Ai có thể dùng Kỹ thuật Pomodoro?
 Câu trả lời là bất cứ ai cũng có thể áp dụng rất hiệu quả Kỹ thuật này. Ví dụ như:
-•	Với Nhà văn
-•	Tạo động lực cho bản thân khi viết
-•	Giới hạn sự xao nhãng
-•	Theo dõi thời gian bạn tiêu tốn cho việc khởi tạo ý tưởng, viết và rà soát lại bản thảo.
-•	Giảm việc đau cổ, đau lưng bằng việc đi lại, di chuyển trong thời gian nghỉ ngơi.
-•	Với Lập trình viên
-•	Hạn chế việc gửi email trong một hoặc hai Pomodoro mỗi ngày để dành thời gian thực sự cho lập trình.
-•	Chia nhỏ các nhiệm vụ lớn, xác định nhiệm vụ cụ thể cần hoàn thành trong một thời gian ngắn.
-•	Thời gian cho việc phát triển và tái cấu trúc mã nguồn.
-•	Giảm số lượng code xấu.
-•	Với Các bậc Phụ huynh
-•	Dạy con cách làm việc theo Kỹ thuật Pomodoro. Ví như: dọn dẹp đồ chơi trong 1 pomodoro.
-•	Cho trẻ thêm thời gian giải lao giữa các Pomodoro để giải tỏa năng lượng, khả năng vận động.
-•	Với Sinh viên
-•	Tăng tốc độ đọc.
-•	Theo dõi các bài tập.
-•	Viết bài.
-•	Chia nhỏ các nhiệm vụ học tập lớn (ví như chia nhỏ việc hoàn thành luận văn tốt nghiệp).
-•	Với Giáo viên
-•	Tổ chức\cấu trúc thời gian hợp lý trong lớp học.
-•	Đưa cho sinh viên những khoảng giải lao về mặt tinh thần hoặc vận động nhỏ giữa các phần thuyết giảng.
-•	Với Nhà Quản lý
-•	Đo đếm được năng suất ở cơ quan.
-•	Cung cấp cho nhóm làm việc công cụ để làm việc cùng nhau.
-•	Quản lý sự xao nhãng với nhân viên và công việc không bị gián đoạn trong các Pomodoro.
+-	Với Nhà văn:
+	Tạo động lực cho bản thân khi viết.
+	Giới hạn sự xao nhãng.
+	Theo dõi thời gian bạn tiêu tốn cho việc khởi tạo ý tưởng, viết và rà soát lại bản thảo.
+	Giảm việc đau cổ, đau lưng bằng việc đi lại, di chuyển trong thời gian nghỉ ngơi.
+-	Với Lập trình viên:
+	Hạn chế việc gửi email trong một hoặc hai Pomodoro mỗi ngày để dành thời gian thực sự cho lập trình.
+	Chia nhỏ các nhiệm vụ lớn, xác định nhiệm vụ cụ thể cần hoàn thành trong một thời gian ngắn.
+	Thời gian cho việc phát triển và tái cấu trúc mã nguồn.
+	Giảm số lượng code xấu.
+-	Với Các bậc Phụ huynh:
+	Dạy con cách làm việc theo Kỹ thuật Pomodoro. Ví như: dọn dẹp đồ chơi trong 1 pomodoro.
+	Cho trẻ thêm thời gian giải lao giữa các Pomodoro để giải tỏa năng lượng, khả năng vận động.
+-	Với Sinh viên:
+	Tăng tốc độ đọc.
+	Theo dõi các bài tập.
+	Viết bài.
+	Chia nhỏ các nhiệm vụ học tập lớn (ví như chia nhỏ việc hoàn thành luận văn tốt nghiệp).
+-	Với Giáo viên:
+	Tổ chức\cấu trúc thời gian hợp lý trong lớp học.
+	Đưa cho sinh viên những khoảng giải lao về mặt tinh thần hoặc vận động nhỏ giữa các phần thuyết giảng.
+-	Với Nhà Quản lý:
+	Đo đếm được năng suất ở cơ quan.
+	Cung cấp cho nhóm làm việc công cụ để làm việc cùng nhau.
+	Quản lý sự xao nhãng với nhân viên và công việc không bị gián đoạn trong các Pomodoro.
 
 
 #### 2) Phương pháp Getting Things Done
