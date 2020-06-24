@@ -114,8 +114,7 @@ Nhận xét của người viết: Italio là một nhà hàng khá mới, tuy n
 ## Ngoài Trường
 
 ### 1. Cơm Năm Hoài
-
-Địa điểm:
+Địa điểm: số 103, thôn 9, Thạch Hòa, Thạch Thất, Hà Nội
 
 Món ăn: chuyên các món ăn kèm cơm bình dân như thịt rang, trứng rán, lòng xào,...
 
@@ -127,11 +126,12 @@ Nhận xét:
 - Lưu ý quán thường đông khách ăn vào tầm 6h trở đi và sẽ đóng cửa vào lúc 7h nên các bạn chú ý nên đi ăn sớm.
 - Diện tích quán ăn phù hợp với nhóm 5 người.
 
-Số điện thoại:
+Số điện thoại: 0969828386
 
-### 2. Quán bún đậu
+![Quán cơm Năm Hoài](/nam-hoai.jpg)
 
-Địa điểm:
+### 2. Quán bún đậu Quán Sung
+Địa điểm: thôn 8, Thạch Hòa, Thạch Thất, Hà Nội
 
 Món ăn: chuyên về bún chấm và các món ăn kèm bún như đậu, nem, chả,...
 
@@ -142,11 +142,12 @@ Nhận xét:
 - Giá các suất ăn sẽ linh động từ 25k - 40k tùy theo số lượng từng món ăn trong suất ăn.
 - Diện tích quán ăn hơi nhỏ nên phù hợp cho nhóm 7 người.
 
-Số điện thoại:
+Số điện thoại: 0965868288
 
-### 3. Quán vịt Tân Xã
+![Bún đậu Quán Sung](/bun-dau.jpg)
 
-Địa điểm:
+### 3. Quán vịt Vân Hiền (Tân Xã)
+Địa điểm: gần cổng trường Hai Bà Trưng, Tân Xã, Thạch Thất, Hà Nội
 
 Món ăn: chuyên các món vịt như vịt quay,vịt luộc, cháo lòng, miến xào,...
 
@@ -155,13 +156,12 @@ Nhận xét:
 - Quán vịt chất lượng nhất quanh khu vực Hòa Lạc mình từng ăn. Các món ăn đều ngon, nhưng hơi nhiều dầu mỡ.
 - Chị chủ quán vui vẻ, nhiệt tình.
 - Giá các món ăn tương đối hợp lí so với mặt bằng chung và so với chất lượng món ăn.
-- Diện tích quán ăn phù hợp nhóm đi ăn số lượng lớn 10 người.
+- Diện tích quán ăn phù hợp nhóm đi ăn số lượng tầm 10 người.
 
-Số điện thoại:
+Số điện thoại: 0374364592
 
 ### 4. Quán nướng Lục Quân
-
-Địa điểm:
+Địa điểm: gần cổng trường Sĩ quan Lục quân I
 
 Món ăn: chuyên các món nướng.
 
@@ -171,5 +171,36 @@ Nhận xét:
 - Phục vụ nhanh, tốt.
 - Giá các món ăn sẽ đắt hơn so với mặt bằng chung.
 - Diện tích quán rộng rãi, thoáng đãng, phù hợp cho nhóm đông người như lớp học, clb đi ăn.
+- Quán có phục vụ đưa đón tận nơi số lượng ít.
+Số điện thoại: 0358555570
+
+![Nhất nướng Lục quân](/nhat-nuong.jpg)
+
+### 5.Quán 113
+Địa điểm:
+
+Món ăn: chuyên các món nhắm ăn cùng đồ uống, lẩu.
+
+Nhận xét:
+- Số lượng món nhắm ăn kèm đa dạng, chất lượng, giải khát tốt.                 
+- Phong cách dân dã.
+- Giá các món ăn bình dân, phù hợp với anh em thích nhậu.
+- Diện tích quán rộng rãi, phù hợp cho nhóm đông người như lớp học, clb đi ăn.
 
 Số điện thoại:
+
+### 5.Quán chè Duyên
+Địa điểm: số 123, thôn 9, Thạch Hòa, Thạch Thất, Hà Nội
+
+Món ăn: chuyên các món chè, đồ ăn nhanh.
+
+Nhận xét:
+- Số lượng các món chè đa dạng, hương vị ngon, ngọt, mát.                 
+- Ông bà chủ quán vui vẻ, thân thiện.
+- Giá các món chè vừa phải, phù hợp với sinh viên.
+- Diện tích quán rộng rãi, thoáng đãng phù hợp cho nhóm 10 -12 người.
+
+Số điện thoại: 0433601200
+
+![Quán chè Duyên](/che-duyen.jpg)
+
