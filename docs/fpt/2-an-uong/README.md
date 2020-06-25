@@ -12,6 +12,8 @@ meta:
 
 ### 1. Cơm căng tin
 
+![Cơm căng tin](/cang_tin.jpg)
+
 Chất Lượng: Về mặt bằng chung thì các quan cơm căng tin có chất lượng tương đồng nhau.
 
 Thời điểm đông trong ngày: thời điểm đông chủ yếu là thời điểm mà khối học sinh cấp ba và khối sinh viên đại học cùng tan hoặc là sáng sớm khi khôi học sinh cấp 3 chuẩn bị đi học. Chủ yếu là tầm 6h30-7h30, 11h30 - 12h30 và tầm 17h-18h30
@@ -121,6 +123,59 @@ Giá cả:
 
 Nhận xét của người viết: Italio là một nhà hàng khá mới, tuy nhiên mình cũng có thử qua 1 vài món và thấy cũng khá ok. Từ chất lượng phục vụ hợp lý đến quy trình chế biến hầu như đều open cho mọi người. Italio rất có khả năng để chiếm được lòng tin từ người dùng.
 
+### 2. Cơm ship
+
+![Cơm ship](/com_ship.png)
+
+Chất Lượng: Có thể nói là thượng vàng hạ cám. chất lượng cơm ship của trường không đồng đều nhau, có quán thì phong độ ổn định, nhưng cũng có quán thì ăn 1 lần xong là bạn sẽ chạy mất rép, thậm trí là từ mặt luôn :)).
+
+Thời điểm đông trong ngày: Về cơm ship, nếu và giờ cao điểm sẽ đông, đồng nghĩa với nó là ship sẽ rất lâu. khung giờ chủ yếu là vào tầm 11h-13h và từ 17h30-19h30
+
+Nhận xét của người viết: Không chính thức nhưng mà không 1 fu-er nào không biết công đồng sinh viên chính thức của đại học fpt là group FU-HL đã bị lấp kín mỗi ngày bới những bài đăng bán hàng cơm ship. Nói chung là chúng ta không thể phủ nhận vai trò của cơm ship là giải pháp cho những bạn lười xuống căng tin vì nhiều lý do có thể là nóng, đông, hoặc cơ bản là bạn lười :)). Với số lượng quán ngày càng mọc lên như nấm tác giả cũng chưa dám chắc là thử hết mọi hàng cơm ship trong trường. Đông thời chất lượng cũng không đồng đều nhau nên người viết bên dưới sẽ chỉ liệt kê một vài tiệm mà đã trải nghiệm và có chất lượng ok.
+
+### 1.1 Cơm Dồng Đội
+
+![Cơm Dồng Đội](/dong_doi.png)
+
+Món ăn: Rát đa dạng. Cơm đồng đội có 1 số lượng món nhất định xoay vòng qua từng hôm. Ngoài cơm ra thì còn những món như Kimbap, còng gà chiên,...
+
+Đặc điểm nổi bật: Đồng Đội có 1 lượng fan trung thành tương đối. Bởi chuyên cung cấp đồ ăn có chất lượng ổn định cũng như hay có những ưu đãi để tạo uy tín và thu hút khách hàng. Họp cơm nhìn ổn và thời gian ship cũng rơi vào tâm trung. từ 20-40 phút.
+
+Giá cả:
+
+- Cơm: 30k
+- Kimbap + đùi gà: 30k - 35k
+
+Hạn chế: vì đầu tư nhiều về mặt hình ảnh của món ăn nên vói giá cả thị trường ngày nay. Cơm đồng đội được cho là hơi ít về cả mặt thức ăn và cơm.
+
+Nhận xét của người viết: Cơm đồng đội phục vụ cả ngày nghỉ. Phải nói đây là 1 lựa chọn đáng giá cho bữa ăn.
+
+### 1.2 Cơm Rang Long Xuyên
+
+![Cơm Rang Long Xuyên](/long_xuyen.png)
+
+Món ăn: Cơm rang đủ món, đủ khoảng hơn 10 món cơm rang. miến xào, mỳ xào
+
+Đặc điểm nổi bật: Cơm Long Xuyên đã có mặt rất lâu trong trường. Xuất phát từ 1 tiệp cơm nhỏ ở Phố hàng cóc ở đằng sau dom D, Cơm có chất lượng tương đổi ổn so với mặt bằng chung.
+
+Hạn chế: Cơm thường ship rất là lâu :)))
+
+Giá cả: đồng giá 30k
+
+Nhận xét của người viết: Cơm ngon tuy nhiên nếu bạn học slot 4 tầm 12h50 mà đặt cơm lúc 12h thì có khả năng là sẽ bị trễ học :))
+
+### 1.3 Bánh mỳ logan
+
+![Bánh mỳ logan](/logan.png)
+
+Món ăn: Bánh mỳ gà, gà xúc xích, trứng xúc xích, trứng bò khô, nước giải khát
+
+Đặc điểm nổi bật: Bánh mỳ ổn, có phần thức ăn và sốt khá vừa. bánh ship ổn và có cả phục vụ ăn sáng
+
+Hạn chế: Bánh mỳ thì thường đói hơi nhanh. phù hợp ăn sáng hơn.
+
+Nhận xét của người viết: Bánh mỳ thì bò sốt tiêu đen thực sự chất lượng :)). hương vị tiêu đen cay nông và thịt bò mềm kết hợp với bánh mỳ rất tuyệt :3
+
 ## Ngoài Trường
 
 ### 1. Cơm Năm Hoài
@@ -205,7 +260,7 @@ Nhận xét:
 
 Số điện thoại:
 
-### 5.Quán chè Duyên
+### 6.Quán chè Duyên
 
 Địa điểm: số 123, thôn 9, Thạch Hòa, Thạch Thất, Hà Nội
 
