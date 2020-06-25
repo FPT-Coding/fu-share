@@ -20,6 +20,8 @@ Nhận xét của người viết: Căng tin là nơi ăn uống default của m
 
 ### 1.1 Cơm Quang Anh
 
+![Cơm Quang Anh](/quang_anh.jpg)
+
 Vị trí: Hàng thứ 2 từ phía dom A đi vào.
 
 Số lượng món: Có 6 món chính cố định ăn với cơm và nhiều món ăn khác cơm như bún bò huế, phở, bánh mỳ sốt văng,...
@@ -39,6 +41,8 @@ Nhận xét của người viết: Quang Anh là nơi không phải cung cấp c
 
 ### 1.2 Hà Nội Phố
 
+![Hà Nội Phố](/ha_noi_pho.jpg)
+
 Vị trí: Hàng đầu tên từ phía dom A đi vào. Cạnh Quang Anh.
 
 Số lượng món: Hà nội phố lại tập chung chủ yếu vào các loại đồ ăn có nước như bún, phở, bánh đa kết hợp cùng các topping như cá, mọc, móng giò, riêu cua, bò,... ngoài ra đồ khô cũng khá thú vị như bánh bao 4 loại, cơm năm, bánh mỳ kẹp thịt nướng, xôi các loại, quẩy (để ăn kèm đồ nước),... Tuy nhiên các món khô thì thường không đều xuất hiện như các món nước.
@@ -56,6 +60,8 @@ Giá cả:
 Nhận xét của người viết: Quán nhìn sạch sẽ, phục vụ cũng khá nhanh, mà chủ yếu là cung cấp món nước nên mình thường có mục đích rõ ràng trước khi lựa chọn quá. Tuy nhiên hôm nào bạn muốn ăn cơm mà lại chỉ còn mỗi Hà Nội phố bán thì cũng khá sad đấy :).
 
 ### 1.3 Simdo
+
+![Simdo](/simdo.jpg)
 
 Vị trí: Đứng thứ 3 từ phía của Dom A đi vào. cạnh Quang Anh
 
@@ -76,6 +82,8 @@ Nhận xét của người viết: Hầu hết nhân viên của Simdo, cho đ�
 
 ### 1.4 Daily
 
+![Daily](/daily.jpg)
+
 Vị trí: Bên ngoài cùng từ phía của Dom A đi vào. cạnh Simdo.
 
 Số lượng món: Với thực đơn chính là hơn 10 món xoay vòng 6 món các ngày. Tuy nhiên hôm nào cũng có 1 món liên quan đến gà :)). Cũng có các món khá riêng như bánh mỳ doner/kebab, cơm rang kebab,...
@@ -93,6 +101,8 @@ Giá cả:
 Nhận xét của người viết: Từng có tham vọng chiếm lĩnh thị trường fastfood của trường, tuy nhiên thất bại do dù có là sinh viên FPT đi chăng nữa thì cũng không phải ai có đủ điều kiện để sử dụng dịch vụ thường xuyên được. Tuy nhiên nên tảng từ việc từng kinh doanh fastfood nên các món ăn của Daily đều khá hấp dẫn, bắt mắt, hệ thống dống hộp mang về ổn, mình thường lựa chọn khi muốn thay đổi địa điểm ăn cơm căng tin thay vì ở dưới căng tin mà là lên phòng :))
 
 ### 1.5 Italio
+
+![Italio](/italio.jpg)
 
 Vị trí: Đối diện với nhà hàng Daily.
 
@@ -114,6 +124,7 @@ Nhận xét của người viết: Italio là một nhà hàng khá mới, tuy n
 ## Ngoài Trường
 
 ### 1. Cơm Năm Hoài
+
 Địa điểm: số 103, thôn 9, Thạch Hòa, Thạch Thất, Hà Nội
 
 Món ăn: chuyên các món ăn kèm cơm bình dân như thịt rang, trứng rán, lòng xào,...
@@ -131,6 +142,7 @@ Số điện thoại: 0969828386
 ![Quán cơm Năm Hoài](/nam-hoai.jpg)
 
 ### 2. Quán bún đậu Quán Sung
+
 Địa điểm: thôn 8, Thạch Hòa, Thạch Thất, Hà Nội
 
 Món ăn: chuyên về bún chấm và các món ăn kèm bún như đậu, nem, chả,...
@@ -147,6 +159,7 @@ Số điện thoại: 0965868288
 ![Bún đậu Quán Sung](/bun-dau.jpg)
 
 ### 3. Quán vịt Vân Hiền (Tân Xã)
+
 Địa điểm: gần cổng trường Hai Bà Trưng, Tân Xã, Thạch Thất, Hà Nội
 
 Món ăn: chuyên các món vịt như vịt quay,vịt luộc, cháo lòng, miến xào,...
@@ -161,6 +174,7 @@ Nhận xét:
 Số điện thoại: 0374364592
 
 ### 4. Quán nướng Lục Quân
+
 Địa điểm: gần cổng trường Sĩ quan Lục quân I
 
 Món ăn: chuyên các món nướng.
@@ -172,17 +186,19 @@ Nhận xét:
 - Giá các món ăn sẽ đắt hơn so với mặt bằng chung.
 - Diện tích quán rộng rãi, thoáng đãng, phù hợp cho nhóm đông người như lớp học, clb đi ăn.
 - Quán có phục vụ đưa đón tận nơi số lượng ít.
-Số điện thoại: 0358555570
+  Số điện thoại: 0358555570
 
 ![Nhất nướng Lục quân](/nhat-nuong.jpg)
 
 ### 5.Quán 113
+
 Địa điểm:
 
 Món ăn: chuyên các món nhắm ăn cùng đồ uống, lẩu.
 
 Nhận xét:
-- Số lượng món nhắm ăn kèm đa dạng, chất lượng, giải khát tốt.                 
+
+- Số lượng món nhắm ăn kèm đa dạng, chất lượng, giải khát tốt.
 - Phong cách dân dã.
 - Giá các món ăn bình dân, phù hợp với anh em thích nhậu.
 - Diện tích quán rộng rãi, phù hợp cho nhóm đông người như lớp học, clb đi ăn.
@@ -190,12 +206,14 @@ Nhận xét:
 Số điện thoại:
 
 ### 5.Quán chè Duyên
+
 Địa điểm: số 123, thôn 9, Thạch Hòa, Thạch Thất, Hà Nội
 
 Món ăn: chuyên các món chè, đồ ăn nhanh.
 
 Nhận xét:
-- Số lượng các món chè đa dạng, hương vị ngon, ngọt, mát.                 
+
+- Số lượng các món chè đa dạng, hương vị ngon, ngọt, mát.
 - Ông bà chủ quán vui vẻ, thân thiện.
 - Giá các món chè vừa phải, phù hợp với sinh viên.
 - Diện tích quán rộng rãi, thoáng đãng phù hợp cho nhóm 10 -12 người.
@@ -203,4 +221,3 @@ Nhận xét:
 Số điện thoại: 0433601200
 
 ![Quán chè Duyên](/che-duyen.jpg)
-
