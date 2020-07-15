@@ -22,14 +22,22 @@ meta:
 ## Cộng đồng chia sẻ tài liệu tham khảo
 
 Đây là nơi chia sẻ tài liệu, source code, các bài test,... của các bạn khóa trên để lại cho khóa dưới tham khảo.
+*Hướng dẫn contribute tài liệu*:
+
+- B1: upload tài liệu của bạn lên drive. Tên folder phải theo cú pháp: **_[Mã ngành]/[Kỳ học]/[Mã môn]_** ví dụ: SE/7/ACC101
+- B2: submit lên form [https://docs.google.com/forms/d/e/1FAIpQLSepERJPKZgAKswsd_tkUTCzDeKwXzIjtCcW8r454ZYQ0XcKrw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSepERJPKZgAKswsd_tkUTCzDeKwXzIjtCcW8r454ZYQ0XcKrw/viewform)
+- B3: khi bài viết của bạn được duyệt, admin sẽ gửi mail cho bạn, cập nhật lên handbook và đăng lên nhóm FU Share
+
 
 ### Chuyên ngành SE
 
 ### Kỳ 1:
 
 **MAE101 - Mathematics for Engineering**
+Link drive: [https://drive.google.com/drive/folders/1sAH25J4S0IY2N2ZdKxPicw2ka0lfPhxO?usp=sharing](https://drive.google.com/drive/folders/1sAH25J4S0IY2N2ZdKxPicw2ka0lfPhxO?usp=sharing)
 
 **CEA201 - Computer Organization and Architecture**
+Link drive: [https://drive.google.com/drive/folders/12ny5ZQMojfvlnAW-qRwHUuF76YU8JhZW?usp=sharing](https://drive.google.com/drive/folders/12ny5ZQMojfvlnAW-qRwHUuF76YU8JhZW?usp=sharing)
 
 **CSI101 - Connecting to Computer Science**
 
@@ -114,12 +122,6 @@ meta:
 **PMG201c - Project management**
 
 **PRX301 - Web Development (XML)**
-
-Hướng dẫn contribute tài liệu:
-
-- B1: upload tài liệu của bạn lên drive. Tên folder phải theo cú pháp: **_[Mã ngành]/[Kỳ học]/[Mã môn]_** ví dụ: SE/7/ACC101
-- B2: submit lên form [https://docs.google.com/forms/d/e/1FAIpQLSepERJPKZgAKswsd_tkUTCzDeKwXzIjtCcW8r454ZYQ0XcKrw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSepERJPKZgAKswsd_tkUTCzDeKwXzIjtCcW8r454ZYQ0XcKrw/viewform)
-- B3: khi bài viết của bạn được duyệt, admin sẽ gửi mail cho bạn, cập nhật lên handbook và đăng lên nhóm FU Share
 
 ### Kỳ 9:
 
