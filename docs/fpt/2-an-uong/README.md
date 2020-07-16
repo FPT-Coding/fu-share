@@ -194,7 +194,7 @@ Nhận xét:
 
 Số điện thoại: 0969828386
 
-![Quán cơm Năm Hoài](/nam-hoai.jpg)
+![Quán cơm Năm Hoài](/01.png)
 
 ### 2. Quán bún đậu Quán Sung
 
@@ -211,7 +211,7 @@ Nhận xét:
 
 Số điện thoại: 0965868288
 
-![Bún đậu Quán Sung](/bun-dau.jpg)
+![Bún đậu Quán Sung](/02.png)
 
 ### 3. Quán vịt Vân Hiền (Tân Xã)
 
@@ -228,6 +228,8 @@ Nhận xét:
 
 Số điện thoại: 0374364592
 
+![Quán vịt Vân Hiền](/03.png)
+
 ### 4. Quán nướng Lục Quân
 
 Địa điểm: gần cổng trường Sĩ quan Lục quân I
@@ -243,7 +245,7 @@ Nhận xét:
 - Quán có phục vụ đưa đón tận nơi số lượng ít.
   Số điện thoại: 0358555570
 
-![Nhất nướng Lục quân](/nhat-nuong.jpg)
+![Nhất nướng Lục quân](/04.png)
 
 ### 5.Quán 113
 
@@ -258,7 +260,9 @@ Nhận xét:
 - Giá các món ăn bình dân, phù hợp với anh em thích nhậu.
 - Diện tích quán rộng rãi, phù hợp cho nhóm đông người như lớp học, clb đi ăn.
 
-Số điện thoại:
+Số điện thoại: 0961150113
+
+![Quan 113](/05.png)
 
 ### 6.Quán chè Duyên
 
@@ -275,4 +279,4 @@ Nhận xét:
 
 Số điện thoại: 0433601200
 
-![Quán chè Duyên](/che-duyen.jpg)
+![Quán chè Duyên](/06.png)
