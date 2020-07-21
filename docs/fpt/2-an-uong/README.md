@@ -280,3 +280,13 @@ Nhận xét:
 Số điện thoại: 0433601200
 
 ![Quán chè Duyên](/06.png)
+
+### 7.Một số quán ăn nổi tiếng khác bạn nên trải nghiệm ít nhất một lần
+- Phở Phúc Béo: trên hồ câu Duy Minh khoảng 50m.
+- Quán bún bò Huế: cách ngã 3 hoà lạc khoảng 100m, mặt đường bên phải quốc lộ 21.
+- Phố Nướng: trên cây xăng 39 khoảng 50m.
+- Quán lẩu nướng Thanh Xuân: gần Asian Resort
+- Vua Gà: gần ngã ba quốc lộ 21.
+- Lẩu Thái Linh: 
+- Nem nướng Hùng Anh: đối diện cây xăng 39.
+- 1988: 
