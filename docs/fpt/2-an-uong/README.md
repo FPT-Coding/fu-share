@@ -287,6 +287,5 @@ Số điện thoại: 0433601200
 - Phố Nướng: trên cây xăng 39 khoảng 50m.
 - Quán lẩu nướng Thanh Xuân: gần Asian Resort
 - Vua Gà: gần ngã ba quốc lộ 21.
-- Lẩu Thái Linh: 
 - Nem nướng Hùng Anh: đối diện cây xăng 39.
-- 1988: 
+

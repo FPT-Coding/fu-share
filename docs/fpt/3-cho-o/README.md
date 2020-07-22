@@ -11,6 +11,9 @@ meta:
 ## Một số thông tin cơ bản khi ở trong KTX
 
 ### Thông tin chung
+
+![Kí túc xá](/kitucxa.jpg)
+
 - Dom A,B: 12 người/block
 - Dom C,D,G,H 8 người/block 
 - Thời gian mở/ đóng cửa DOM: 5:00 AM - 10:30 PM
@@ -21,6 +24,9 @@ Lưu ý khi ở KTX
 - Để ý sử dụng điện + nước tiết kiệm nếu ko sợ bị shock khi nhìn tiền phụ trội
 
 ### Quy trình đăng kí/ hủy phòng kí túc xá
+
+![Quy Trình](/quytrinh.jpg)
+
 Cách đăng kí phòng kí túc xá:
 - Đăng kí online trên trang web của trường: https://ocd.fpt.edu.vn/
 - Bạn chỉ được quyền đăng kí chỗ ở trong KTX khi đã có đủ tiền trong ví FAP. Thời gian từ lúc chuyển khoản đến lúc tiền được chuyển vào ví mất 1.5 ngày nên các bạn chú ý thời gian chuyển tiền để không bị chậm deadline chuyển.
@@ -38,18 +44,34 @@ Lưu ý khi đặt, hủy phòng
 - Trường chỉ nhận hình thức đóng tiền là chuyển khoản tới STK của nhà trường.
 
 ### Các kênh thông tin liên lạc khi ở KTX
+
+![Liên lạc](/lienlac.jpg)
+
 - Trang web về dịch vụ trong KTX: xem lịch sử ở trong KTX, số tiền phụ trội điện - nước, giữ chỗ/đặt chỗ trong KTX. Link truy cập: https://ocd.fpt.edu.vn/
 - Hòm thư ban quản lí KTX: ktx@fpt.edu.vn
 - Số điện thoại phòng bảo vệ: 
 - Ngoài ra, nếu có bất kì mất mát tài sản hoặc tình huống khẩn cấp nào, bạn có thể xuống phòng bảo vệ ở đầu Dom C để nhờ các bác bảo vệ giải quyết giúp.
 
 ## Một số thông tin khi ở trọ ngoài
-- Để ý trông giữ đồ cẩn thận
+
+### Một số lưu ý
+- Các khu vực hay có nhà trọ cho sinh viên thuế là khu vực Tân Xã và khu vực gần cây xăng 39.
+- Để ý trông giữ đồ cẩn thận. Dù bây giờ các nhà trọ đều có hệ thống an ninh nhưng vẫn nên có ý thức tự bảo vệ đồ đạc.
+- Khi thuê trọ nên để ý không trọ quá xa để tránh những tình huống nghỉ học đáng tiếc.
+- Lúc thuê trọ nên để ý phòng trọ có điều hòa hay không vì thời tiết Hòa Lạc mùa hè khá nóng.
+
+### Một số kênh liên review nhà trọ chất lượng
+- Hội review nhà trọ có tâm Hòa Lạc: https://bit.ly/2ZSVdH0
+
+### Một số hình ảnh đậm tính chất hiện thực về sinh viên FU ở trọ ngoài
+
+![Hình ảnh nhà trọ](/tro.jpg)
 
 ## Thông tin các phương tiện đi lại
 Xe bus
 - Tuyến 74: từ bến xe Mỹ Đình đến bến xe Xuân Khanh. Chuyến sớm nhất qua trường ĐH FPT khoảng 6AM và chuyến cuối cùng khoảng 8PM hàng ngày.
 - Tuyến 107: từ tòa nhà PTA Kim Mã đến Làng văn hóa du lịch các dân tộc Việt Nam.
+- Tuyến 88: từ bến xe Xuân Mai đến bến xe Mỹ Đình.
 
 Xe ôm
 - Tại cổng trường ĐH FPT
@@ -57,10 +79,19 @@ Xe ôm
 Taxi
 - Taxi Sơn Tây: 02433.62.62.62
 
+![Tuyến xe bus 107](/xebus.png)
+
 ### Một số thông tin khác
 Các địa điểm rút tiền khu vực gần ĐH FPT:
 - Cây ATM TP Bank và MB Bank gần sân tập Vovinam
 - Cây ATM tại tòa nhà Viettel gần trường ĐH FPT
 - Cây ATM tại nhà ăn toàn nhà F-Ville 1, FPT Software
 - Cây ATM gần chợ ngã ba Hòa Lạc
+
+Các địa điểm mua đồ gần khu vực trường ĐH FPT
+- Quán tạp hóa Minh Vượt: gần ngã ba Hòa Lạc
+- Chợ ngã ba Hòa Lạc: gần ngã ba Hòa Lạc
+- Chợ Bãi Đá: gần ngã tư Lục quân
+- Siêu thị Lan Chi: qua ngã tư Lục Quân 100m
+- Chợ phiên Tân Xã: khu vực Tân Xã, chỉ diễn ra vào những ngày có đuôi 0 3 5 7( theo lịch âm nhé) hàng tháng.
 
