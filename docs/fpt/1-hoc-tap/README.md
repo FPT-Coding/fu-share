@@ -356,3 +356,4 @@ Nếu bạn cũng thích giấy bút thì có thể tham khảo về Bullet Jour
 Getting Things Done là một phương pháp hiệu quả nhưng không phải cho tất cả mọi người và nó có thể không phải là hệ thống năng suất tốt nhất cho bạn. Rất nhiều người tôn sùng Getting Things Done như Kinh thánh nhưng nó cũng chỉ là một trong những phương pháp phổ biến nhất. Cách sử dụng tốt nhất là biến nó thành hệ thống phù hợp với nhu cầu của bạn, chứ không phải răm rắp tuân theo các nguyên tắc. Dù cho bạn làm gì, hãy chắc chắn rằng nó hoạt động dễ dàng và phù hợp với bạn.
 
 ## Thông tin giảng viên
+[https://drive.google.com/drive/folders/17d_tergkLWTxOHuSgillaDJDOGCVIddf?usp=sharing](https://drive.google.com/drive/folders/17d_tergkLWTxOHuSgillaDJDOGCVIddf?usp=sharing)
