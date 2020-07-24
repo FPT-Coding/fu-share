@@ -9,7 +9,7 @@ meta:
 # Học tập
 
 ## Quy trình
-
+- Về cơ bản muốn làm bất kỳ thủ tục nào đều thông qua đơn
 ###	Làm đơn
 -	Lên trang: http://fap.fpt.edu.vn chọn “Send Application(Gửi đơn)” ở mục “Registration/Application(Thủ tục/đơn từ)”
 -	Chọn loại đơn: Chuyển ngành, Phúc khảo, bảo lưu,vv…..
@@ -28,10 +28,16 @@ Những loại đơn cơ bản sau khi có status: Approved là đơn đã đư�
 
 ## Mẫu đơn
 
-- Đơn xin miễn điểm danh(Cho trường hợp đi làm): link
-- Đơn bảo lưu học phần: link
-- Đơn xin chuyển ngành: link
-- Đơn đề nghị phúc tra: link 
+- Đơn xin miễn điểm danh(Cho trường hợp đi làm):  [https://drive.google.com/file/d/1IuPOEv2bMYWopLC1B4gJ6SqUrtGgEQ3Q/view](https://drive.google.com/file/d/1IuPOEv2bMYWopLC1B4gJ6SqUrtGgEQ3Q/view)
+- Đơn bảo lưu học phần: [https://drive.google.com/file/d/1onZpPGUSHhNXqtxwyGJ4cGR1tAHMtKpw/view](https://drive.google.com/file/d/1onZpPGUSHhNXqtxwyGJ4cGR1tAHMtKpw/view)
+- Đơn xin chuyển ngành: [https://drive.google.com/file/d/19hkAAdxsNnh-seq5V2CcPQR7ks7vXHJ2/view](https://drive.google.com/file/d/19hkAAdxsNnh-seq5V2CcPQR7ks7vXHJ2/view)
+- Đơn đề nghị phúc tra: [https://drive.google.com/file/d/1Gx8VxjRoGmv-eKNfqAV_q55v_Mx7U3qx/view](https://drive.google.com/file/d/1Gx8VxjRoGmv-eKNfqAV_q55v_Mx7U3qx/view) 
+- Đơn xin chuyển cơ sở học: [https://drive.google.com/file/d/1_8MsVOd3tou2sUB_truFfAJGktLxatAQ/view](https://drive.google.com/file/d/1_8MsVOd3tou2sUB_truFfAJGktLxatAQ/view)
+- Đơn đăng ký thi cải thiện điểm: [https://drive.google.com/file/d/1B5oaSU-JIJm9v9N15x1mW8ou1GKSWQ1n/view](https://drive.google.com/file/d/1B5oaSU-JIJm9v9N15x1mW8ou1GKSWQ1n/view)
+- Giấy xác nhận sinh viên(Trong trường hợp bị goi đi nghĩa vụ): [https://drive.google.com/file/d/190PAevYXqCq0tJdwdExT-raRU3Rp21F-/view](https://drive.google.com/file/d/190PAevYXqCq0tJdwdExT-raRU3Rp21F-/view)
+- Đăng ký thi thẩm định môn học online(Khi học online mà thì trượt @@): [https://drive.google.com/file/d/10U4rT4ftjdxErrDvvqON6AB5zn7Uca7e/view](https://drive.google.com/file/d/10U4rT4ftjdxErrDvvqON6AB5zn7Uca7e/view)
+- Phiếu thôi học(Không muốn học tại FPT nữa về quê chăn vịt): [https://drive.google.com/file/d/1Gbv4lcY6Sf_rQjnRBsUZq5rSRkg9CwMe/view](https://drive.google.com/file/d/1Gbv4lcY6Sf_rQjnRBsUZq5rSRkg9CwMe/view)
+- Mẫu đơn 3 chấm(Dùng cho những nhu cầu khác ví dụ: Đá bạn ra khỏi phòng KTX 😊): [https://drive.google.com/file/d/14O5TlflgaNBxFNPISpYvrMcvs90oNbah/view](https://drive.google.com/file/d/14O5TlflgaNBxFNPISpYvrMcvs90oNbah/view)
 
 
 
