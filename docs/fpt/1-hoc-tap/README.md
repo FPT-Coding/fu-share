@@ -10,7 +10,30 @@ meta:
 
 ## Quy trình
 
+###	Làm đơn
+-	Lên trang: http://fap.fpt.edu.vn chọn “Send Application(Gửi đơn)” ở mục “Registration/Application(Thủ tục/đơn từ)”
+-	Chọn loại đơn: Chuyển ngành, Phúc khảo, bảo lưu,vv…..
+ Lưu ý: Nếu không có loại đơn muốn nộp trong bảng chọn hãy chọn mục ”Các loại đơn khác”
+-	Ở mục “Purpose” điền nội dung chính/mục đích của đơn
+-	Mục “File Attach”: Dùng để nộp mẫu đơn đã điền(Lưu ý các định dạng file)
+-	Ấn “Send” để gửi đơn
+
+###	Kiểm tra tình trạng đơn
+Ngay bên cạnh mục “Send Application(Gửi đơn)” là “View Application(Xem đơn)” Click vào để xem trạng thái đơn được duyệt hay chưa.(Thường duyệt sau 3 ngày làm việc)
+Những loại đơn cơ bản sau khi có status: Approved là đơn đã được duyệt.
+
+###	Một số loại đơn đặc biệt
+Đơn xin miễn điểm danh(Trong trường hợp đi làm): Cần phải có ảnh chụp hợp đồng lao động gửi cùng với đơn. Hợp đồng được gửi
+Đơn phúc khảo: Sau khi đơn được duyệt, phòng đào tạo sẽ gửi kết quả phúc khảo qua mail
+
 ## Mẫu đơn
+
+- Đơn xin miễn điểm danh(Cho trường hợp đi làm): link
+- Đơn bảo lưu học phần: link
+- Đơn xin chuyển ngành: link
+- Đơn đề nghị phúc tra: link 
+
+
 
 ## Tổng hợp các đề các môn LAB
 
