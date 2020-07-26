@@ -17,7 +17,6 @@ module.exports = {
       ['../fpt/2-an-uong/', '2. Ăn uống'],
       ['../fpt/3-cho-o/', '3. Chỗ ở'],
       ['../fpt/4-vui-choi/', '4. Vui chơi'],
-      ['../fpt/5-van-hoa/', '5. Văn hóa'],
     ],
     nav: [
       {
@@ -32,4 +31,4 @@ module.exports = {
     repoLabel: 'Github',
     displayAllHeaders: true,
   },
-};
+}

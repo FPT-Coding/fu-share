@@ -12,7 +12,7 @@ Nằm trên mảnh đắt Hòa Lạc, nơi cách xa thủ đổ Hà Nội hơn b
 
 ## Vui chơi gần
 
-## Vui chơi xa :)
+## Vui chơi xa
 
 ![Hòa Lạc xa](/hoa_lac_xa.jpg)
 
