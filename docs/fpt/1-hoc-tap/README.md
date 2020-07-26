@@ -9,7 +9,7 @@ meta:
 # Học tập
 
 ## Quy trình
-- Về cơ bản muốn làm bất kỳ thủ tục nào đều thông qua đơn
+Về cơ bản muốn làm bất kỳ thủ tục nào đều thông qua đơn
 ###	Làm đơn
 -	Lên trang: http://fap.fpt.edu.vn chọn “Send Application(Gửi đơn)” ở mục “Registration/Application(Thủ tục/đơn từ)”
 -	Chọn loại đơn: Chuyển ngành, Phúc khảo, bảo lưu,vv…..
