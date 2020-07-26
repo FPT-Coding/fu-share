@@ -157,7 +157,7 @@ Một vài tips nhỏ khi đi Sơn Tinh Camp:
 "Nông trại xanh, sống an lành" là phương châm đã in sâu vào cả con tim và khối óc của từng người nông dân Detrang Farm. Ước mơ về một nông trại xanh, đem đến những thực phẩm tôn trọng tự nhiên đang trở thành hiện thực tại nơi đây. Cũng là một địa điểm nghỉ dưỡng tại Ba vì, nơi đây cũng là một không gian vui chơi dành cho các đội nhóm muốn tổ chức các sự kiện teambuilding trong những ngày cuối tuần của mình.
 
 Quãng đường: 24 - 27km tùy đường.
-
+df
 Thời gian di chuyển: 40 - 50 phút.
 
 Phương tiện đề xuất: Ô tô.
