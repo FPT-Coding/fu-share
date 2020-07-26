@@ -25,7 +25,9 @@ Cách xa thủ đô, nhưng đó lại là một yếu tố đưa FU đến gầ
 Nằm cách Trường đại học FPT gần hai chục kilomet đi hướng về thủ đô, chùa Thầy cùng với vẻ đẹp của cảnh quan thiên nhiên và những giá trị văn hóa lịch sử thật sự tạo nên một điểm du lịch hấp dẫn. Trên khung cảnh núi non hùng vĩ của Sài Sơn, chùa Thầy hiện ra trong sự yên tĩnh, dưới những làn sương mờ mờ ảo ảo hay trong những dòng người tấp nập đi lễ chùa.
 
 Quãng đường: 17-19km tùy đường.
+
 Thời gian đi chuyển: 25 phút.
+
 Phương tiện đề xuất: Xe máy.
 
 Phong cảnh đẹp và không gian tương đối rộng lớn. Các bạn có thể tụ nhóm khoảng 6-7 người, lựa chọn những hành trang đơn giản và dành một ngày để trải nghiệm không gian nơi đây. Một buổi picnic nho nhỏ và cùng nhắp cảnh thiên nhiên đồi núi luôn là một ý tưởng tuyệt vời cho một ngày cuối tuần muốn đi chơi xa.
@@ -53,7 +55,9 @@ Những điều bạn cần lưu ý khi đi chùa Thầy:
 Chỉ cần thích là có thể đi Ba Vì quanh năm vì nơi đây mỗi mùa đẹp một vẻ. Trong đó, mùa thu và mùa hè là thời điểm đẹp nhất với những ngày trời quang, nắng nhẹ. Nhờ cây cối điều hòa nên không khí luôn trong lành và mát mẻ. Hơn nữa Quãng đường di chuyển của chúng ta sẽ gần hơn so với Thủ đô, Lợi thế thật tuyệt phải không nào.
 
 Quãng đường: 27 - 30km tùy đường.
+
 Thời gian di chuyển: 50p - 1h.
+
 Phương tiện đề xuất: xe số khỏe một tý.
 
 Khu vực vườn Quốc gia Ba Vì có rất nhiều địa điểm thăm quan - khám phá - nghỉ dưỡng. Với những ai muốn phượt Ba Vì trong vòng 1 ngày, bạn sẽ phải sắp xếp lịch trình thật hợp lý nếu không muốn bị bỏ lỡ những điểm thăm quan chính.
@@ -90,7 +94,9 @@ Giá thuê đồ:
 Làng văn hóa các dân tộc Việt Nam là một phần thuộc khu du lịch Đồng Mô, Sơn Tây, Hà Nội. Khu bảo tồn là nơi tái hiện đời sống sinh hoạt các tộc người trên khắp nước Việt Nam. Cùng năm trên mảnh đất Ba vì, thật dễ dàng để chung ta thu xếp 1 buổi đi chơi nhẹ nhàng cuối tuần.
 
 Quãng đường: 15 - 19km tùy đường.
+
 Thời gian di chuyển: 25 - 30 phút.
+
 Phương tiện đề xuất: vẫn là ưu tiên xe số khỏe một tý.
 
 Làng văn hóa các dân tộc được chia làm nhiều khu khác nhau gồm khu các làng dân tộc, khu trung tâm văn hóa và vui chơi giải trí, khu di sản văn hóa thế giới, khu công viên, khu cây xanh và hồ Đồng Mô... thỏa sức cho bạn khám phá.
@@ -123,7 +129,9 @@ Một vài tips nhỏ khi tới Làng văn hóa các dân tộc Việt Nam:
 Sơn Tinh camp nằm trong khu du lịch Đồng Mô, và cũng nằm cách Làng Văn hoá - Du lịch các dân tộc Việt Nam không quá xa. Sau khi đến cổng, đi thẳng qua chiếc cầu màu cam, đến ngã 3 rẽ trái đi đến hết đường nhựa, đến lối vào đường đất bạn sẽ thấy biển đề Sơn Tinh Camp. Đi xuyên qua khu rừng khoảng 1,5km nữa là tới.
 
 Quãng đường: 17 - 19km tùy đường.
+
 Thời gian di chuyển: 27 - 30 phút.
+
 Phương tiện đề xuất: vẫn là ưu tiên xe số khỏe thôi.
 
 Là vùng đất nằm trên một bán đảo có ba mặt giáp với hồ Đồng Mô, khu cắm trại Sơn Tinh Camp có diện tích lên tới 40ha với cảnh vật nên thơ trữ tình, khí hậu lại vô cùng thoải mái. Nơi đây rất phù hợp cho những buổi dã ngoại cùng bạn bè vào dịp nghỉ ngơi cuối tuần.
@@ -149,7 +157,9 @@ Một vài tips nhỏ khi đi Sơn Tinh Camp:
 "Nông trại xanh, sống an lành" là phương châm đã in sâu vào cả con tim và khối óc của từng người nông dân Detrang Farm. Ước mơ về một nông trại xanh, đem đến những thực phẩm tôn trọng tự nhiên đang trở thành hiện thực tại nơi đây. Cũng là một địa điểm nghỉ dưỡng tại Ba vì, nơi đây cũng là một không gian vui chơi dành cho các đội nhóm muốn tổ chức các sự kiện teambuilding trong những ngày cuối tuần của mình.
 
 Quãng đường: 24 - 27km tùy đường.
+
 Thời gian di chuyển: 40 - 50 phút.
+
 Phương tiện đề xuất: Ô tô.
 
 Khu vực này có vị trí cao, không khí mát mẻ và không gian cũng rộng, dịch vụ phục vụ khá chu đáo đồng thời là một trang trại nên Detrang farm sở hữu cho mình rất nhiều khu vực riêng biệt và lý thú một nơi lý tưởng để chúng ta cùng xách ba lô lên và trải nghiệm nào.
