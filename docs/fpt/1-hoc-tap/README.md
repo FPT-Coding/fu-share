@@ -211,4 +211,4 @@ Cộng đồng chia sẻ quizlet các môn, các bạn có thể join class và 
 	Thứ 2 là đọc hiểu nội dung của câu hỏi và các đáp án, take note lại những nội dung mà mình học được từ các câu hỏi và học các nội dung đó.
 
 ## Thông tin giảng viên
-[https://docs.google.com/spreadsheets/d/1nyOCAGwwxBLs-fAShMk_V5pHR5LN_9n8GXSdjyNCVTY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1nyOCAGwwxBLs-fAShMk_V5pHR5LN_9n8GXSdjyNCVTY/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1nyOCAGwwxBLs-fAShMk_V5pHR5LN_9n8GXSdjyNCVTY/edit#gid=0](https://docs.google.com/spreadsheets/d/1nyOCAGwwxBLs-fAShMk_V5pHR5LN_9n8GXSdjyNCVTY/edit#gid=0)
