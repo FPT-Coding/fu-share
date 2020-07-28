@@ -14,13 +14,13 @@ Nằm trên mảnh đắt Hòa Lạc, nơi cách xa thủ đổ Hà Nội hơn b
 
 ## Vui chơi xa
 
-![Hòa Lạc xa](/hoa_lac_xa.jpg)
+![Hòa Lạc xa](/choi-01.png)
 
 Cách xa thủ đô, nhưng đó lại là một yếu tố đưa FU đến gần hơn với các khu vực nghỉ dưỡng sinh thái ngoại thành Hà Nội. Chúng ta cùng nhau khám phá những địa điểm nghỉ dưỡng quanh Hòa Lạc thôi. Vì có rất nhiều địa điểm du lịch nên chúng mình sẽ chỉ liệt kê những địa điểm nổi tiếng hoặc những nơi mà chúng mình đã từng đi qua thôi. Chứ sẽ còn rất rất nhiều chỗ mà chúng mình chưa biết vẫn đang đợi các bạn khám phá nữa.
 
 ### 1. Chùa Thầy - Điểm Đến Du Lịch Tâm Linh Hấp Dẫn
 
-![Chùa Thầy](/chua_thay.jpg)
+![Chùa Thầy](/choi-02.png)
 
 Nằm cách Trường đại học FPT gần hai chục kilomet đi hướng về thủ đô, chùa Thầy cùng với vẻ đẹp của cảnh quan thiên nhiên và những giá trị văn hóa lịch sử thật sự tạo nên một điểm du lịch hấp dẫn. Trên khung cảnh núi non hùng vĩ của Sài Sơn, chùa Thầy hiện ra trong sự yên tĩnh, dưới những làn sương mờ mờ ảo ảo hay trong những dòng người tấp nập đi lễ chùa.
 
@@ -50,7 +50,7 @@ Những điều bạn cần lưu ý khi đi chùa Thầy:
 
 ### 2. Vườn quốc gia Ba Vì.
 
-![Vườn quốc gia Ba Vì](/ba_vi.jpg)
+![Vườn quốc gia Ba Vì](/choi-03.png)
 
 Chỉ cần thích là có thể đi Ba Vì quanh năm vì nơi đây mỗi mùa đẹp một vẻ. Trong đó, mùa thu và mùa hè là thời điểm đẹp nhất với những ngày trời quang, nắng nhẹ. Nhờ cây cối điều hòa nên không khí luôn trong lành và mát mẻ. Hơn nữa Quãng đường di chuyển của chúng ta sẽ gần hơn so với Thủ đô, Lợi thế thật tuyệt phải không nào.
 
@@ -89,7 +89,7 @@ Giá thuê đồ:
 
 ### 3. Làng Văn hoá - Du lịch các dân tộc Việt Nam.
 
-![Làng Văn hoá - Du lịch các dân tộc Việt Nam.](/lang_van_hoa.jpg)
+![Làng Văn hoá - Du lịch các dân tộc Việt Nam.](/choi-04.png)
 
 Làng văn hóa các dân tộc Việt Nam là một phần thuộc khu du lịch Đồng Mô, Sơn Tây, Hà Nội. Khu bảo tồn là nơi tái hiện đời sống sinh hoạt các tộc người trên khắp nước Việt Nam. Cùng năm trên mảnh đất Ba vì, thật dễ dàng để chung ta thu xếp 1 buổi đi chơi nhẹ nhàng cuối tuần.
 
@@ -124,7 +124,7 @@ Một vài tips nhỏ khi tới Làng văn hóa các dân tộc Việt Nam:
 
 ### 4. Sơn Tinh Camp.
 
-![Sơn Tinh Camp.](/son_tinh_camp.jpg)
+![Sơn Tinh Camp.](/choi-05.png)
 
 Sơn Tinh camp nằm trong khu du lịch Đồng Mô, và cũng nằm cách Làng Văn hoá - Du lịch các dân tộc Việt Nam không quá xa. Sau khi đến cổng, đi thẳng qua chiếc cầu màu cam, đến ngã 3 rẽ trái đi đến hết đường nhựa, đến lối vào đường đất bạn sẽ thấy biển đề Sơn Tinh Camp. Đi xuyên qua khu rừng khoảng 1,5km nữa là tới.
 
@@ -152,7 +152,7 @@ Một vài tips nhỏ khi đi Sơn Tinh Camp:
 
 ### 5. Nông trại Detrang Farm Ba Vì.
 
-![Nông trại Detrang Farm Ba Vì.](/detrang_farm.jpg)
+![Nông trại Detrang Farm Ba Vì.](/choi-06.png)
 
 "Nông trại xanh, sống an lành" là phương châm đã in sâu vào cả con tim và khối óc của từng người nông dân Detrang Farm. Ước mơ về một nông trại xanh, đem đến những thực phẩm tôn trọng tự nhiên đang trở thành hiện thực tại nơi đây. Cũng là một địa điểm nghỉ dưỡng tại Ba vì, nơi đây cũng là một không gian vui chơi dành cho các đội nhóm muốn tổ chức các sự kiện teambuilding trong những ngày cuối tuần của mình.
 
