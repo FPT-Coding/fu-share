@@ -196,22 +196,19 @@ Cộng đồng chia sẻ quizlet các môn, các bạn có thể join class và 
 -	Ăn uống đầy đủ trước khi đi thi để có năng lượng giúp giữ được sự tập trung lúc làm bài. Không ăn quá nhiều để tránh các rủi ro khác.
 -	Ngủ đủ giấc, không nên thức khuya trước ngày thi
 -	Kiểm tra thiết bị cần thiết cho bài thi: laptop, chuột, sạc laptop, bút , thẻ sinh viên, kiểm tra mạng, tài khoản đăng nhập
--	Nếu có vấn đề về mạng, tài khoản hãy xuống phòng … để được hỗ trợ.
+-	Nếu có vấn đề về mạng, tài khoản hãy xuống phòng khảo thí để được hỗ trợ.
 ### 2.	Thi PE
--	Về nội dung của đề thi: Bạn có thể hỏi giảng viên trong các buổi học trước khi thi PE, phần lớn giảng viên sẽ giải thích cho bạn về nội dung của đề thi: đề thi có bao nhiêu câu, phân bố điểm của mỗi câu… từ đó đưa ra chiến thuật hợp lý vào ngày thi (nên làm câu nào, bỏ câu nào nếu không đủ thời gian).
--	Tùy vào mục tiêu về điểm số của bạn mà sẽ áp dụng các chiến thuật thi khác nhau. Ví dụ như nếu mục tiêu của bạn chỉ là đủ qua điểm liệt thì bạn nên tập trung làm kĩ câu dễ nhất và dành ít thời gian hơn cho các câu còn lại. Còn nếu bạn muốn đạt điểm cao thì nên phân bố thời gian đồng đều theo mức độ khó của mỗi câu hỏi.
--	Phương pháp học: làm lại đề thi của các khóa trước. Bạn càng làm được nhiều đề thì điểm của bạn sẽ càng cao.
--	Nên ôn luyện thi PE muộn nhất 1 tuần trước lịch thi.
+-	Về nội dung của đề thi: có thể hỏi giảng viên trong các buổi học trước khi thi PE, phần lớn giảng viên sẽ giải thích cho bạn về nội dung của đề thi như đề thi có bao nhiêu câu, phân bố điểm của mỗi câu… từ đó đưa ra chiến thuật hợp lý vào ngày thi (nên làm câu nào, bỏ câu nào nếu không đủ thời gian).
+-	Tùy vào mục tiêu về điểm số của bạn mà sẽ áp dụng các chiến thuật thi khác nhau. Ví dụ như nếu mục tiêu của bạn chỉ là đủ qua điểm liệt thì bạn nên tập trung làm kĩ câu dễ nhất và dành ít thời gian hơn cho các câu còn lại. Còn nếu bạn muốn đạt điểm cao thì phải luyện nhiều, thuần thục mấy câu đơn giản và tập trung nghiên cứu những câu khó trước khi thi
+-	Phương pháp học: làm lại đề thi của các khóa trước, làm được nhiều đề thì càng dễ điểm cao.
+-	Nên chuẩn bị một bộ thư viện để phục vụ cho PE và luyện nó thuần thục, việc còn lại là vào phòng thi copy, đọc hiểu và chỉnh sửa.
 ### 3.	Thi FE
--	Hình thức thi: trắc nghiệm
--	Nội dung thi: các câu hỏi liên quan đến toàn bộ kiến thức đã học trong kỳ
--	Về cách ôn tập: Đọc lại slide của môn học, note lại các phần kiến thức quan trọng, ghi nhớ các kiến thức đó.
--	Cách ôn thi FE truyền thống của sinh viên FPT: học key.
-  - Cách tìm key: xin bạn bè hoặc các anh chị khóa gần nhất hoặc search trên quizlet. Hoặc bạn có thể tìm trong danh sách tài liệu của group FU-Share.
-  - Cách học key: có 2 hướng đi trong việc học key:
-	Thứ 1 là học thuộc câu hỏi và đáp án đúng (hoặc các keyword của câu hỏi và đáp án đúng).
-	Thứ 2 là đọc hiểu nội dung của câu hỏi và các đáp án. Take note lại những nội dung mà mình học được từ các câu hỏi và học các nội dung đó.
--	Nên ôn luyện thi FE ít nhất 1 tuần trước ngày thi.
+-	Thi trắc nghiệm, nội dung thi là các câu hỏi liên quan đến toàn bộ kiến thức đã học trong kỳ
+-	Nên đọc lại slide, note lại các phần kiến thức quan trọng, ghi nhớ các kiến thức đó.
+- 	Ôn key, có thể tìm key bằng cách xin bạn bè hoặc các anh chị khóa gần nhất hoặc search trên quizlet. Hoặc bạn có thể tìm trong danh sách tài liệu của group FU-Share, trên trang thaycacac, trong phần contribute của anh khóa trên.
+-	Gợi ý một số cách học key
+	Học thuộc câu hỏi và đáp án đúng bằng cách chia nhỏ ra (khoảng 50 term) sau đó sử dụng cách học mà bạn yêu thích để học (bạn thì thích nghe, bạn thích viết, bạn thích flash card, hay bạn thích test...).
+	Thứ 2 là đọc hiểu nội dung của câu hỏi và các đáp án, take note lại những nội dung mà mình học được từ các câu hỏi và học các nội dung đó.
 
 ## Tài liệu tham khảo
 [https://drive.google.com/drive/folders/1BtZKd023553GOwYGjxyx5Wuy1iBQjRrj?usp=sharing](https://drive.google.com/drive/folders/1BtZKd023553GOwYGjxyx5Wuy1iBQjRrj?usp=sharing)
