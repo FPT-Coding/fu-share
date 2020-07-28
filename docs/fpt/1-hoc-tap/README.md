@@ -94,78 +94,57 @@ Những loại đơn cơ bản sau khi có status: Approved là đơn đã đư�
 
 ### Kỳ 4:
 
-**NWC202 - Computer Networking**
-Link drive: [https://drive.google.com/drive/folders/17W36P0DuuSb6zFDQPozuU2VoPoGafyO8?usp=sharing](https://drive.google.com/drive/folders/17W36P0DuuSb6zFDQPozuU2VoPoGafyO8?usp=sharing)
+**NWC202 - Computer Networking**: [http://fptu.netlify.app/hoc-tap/se/semester-4/nwc202](http://fptu.netlify.app/hoc-tap/se/semester-4/nwc202)
 
-**PRJ321 - Web-Based Java Applications**
-Link drive: [https://drive.google.com/drive/folders/1InEjh7FiwlWIrQDhxyE02IfANSqKr72-?usp=sharing](https://drive.google.com/drive/folders/1InEjh7FiwlWIrQDhxyE02IfANSqKr72-?usp=sharing)
+**PRJ321 - Web-Based Java Applications**: [http://fptu.netlify.app/hoc-tap/se/semester-4/prj321](http://fptu.netlify.app/hoc-tap/se/semester-4/prj321)
 
-**SWE102 - Introduction to Software Engineering**
-Link drive: [https://drive.google.com/drive/folders/1N8jg2OklvZ-8wAjwK7KqvWLEr5OmeqqN?usp=sharing](https://drive.google.com/drive/folders/1N8jg2OklvZ-8wAjwK7KqvWLEr5OmeqqN?usp=sharing)
+**SWE102 - Introduction to Software Engineering**: [http://fptu.netlify.app//hoc-tap/se/semester-4/swe102](http://fptu.netlify.app//hoc-tap/se/semester-4/swe102)
 
-**JPD121 - Elementary Japanese 1.2**
-Link drive: [https://drive.google.com/drive/folders/1lUPrMYZXrzD-qKDuGu7Vj9Miw32_WnnA?usp=sharing](https://drive.google.com/drive/folders/1lUPrMYZXrzD-qKDuGu7Vj9Miw32_WnnA?usp=sharing)
+**JPD121 - Elementary Japanese 1.2**: [http://fptu.netlify.app/hoc-tap/se/semester-4/jpd121](http://fptu.netlify.app/hoc-tap/se/semester-4/jpd121)
 
-**LAB221 - Desktop Java Lab**
-Link drive: [https://drive.google.com/drive/folders/1mz8xB9b5Ebb-Bp3cTctD08tuNpPav-_v?usp=sharing](https://drive.google.com/drive/folders/1mz8xB9b5Ebb-Bp3cTctD08tuNpPav-_v?usp=sharing)
+**LAB221 - Desktop Java Lab**: [http://fptu.netlify.app//hoc-tap/se/semester-4/lab221](http://fptu.netlify.app//hoc-tap/se/semester-4/lab221)
 
 ### Kỳ 5:
 
-**JPD131 - Elementary Japanese 2.1**
-Link drive: [https://drive.google.com/drive/folders/18YFB4oKuFtuM71aAkySLvSMl8JED4Bc_?usp=sharing](https://drive.google.com/drive/folders/18YFB4oKuFtuM71aAkySLvSMl8JED4Bc_?usp=sharing)
+**JPD131 - Elementary Japanese 2.1**: [http://fptu.netlify.app/hoc-tap/se/semester-5/jpd131](http://fptu.netlify.app/hoc-tap/se/semester-5/jpd131)
 
-**LAB231 - Web Java Lab**
-Link drive: [https://drive.google.com/drive/folders/1wLAYmHN0-kCOjkIlbKzgFuzJaICWrWrK?usp=sharing](https://drive.google.com/drive/folders/1wLAYmHN0-kCOjkIlbKzgFuzJaICWrWrK?usp=sharing)
+**LAB231 - Web Java Lab**: [http://fptu.netlify.app/hoc-tap/se/semester-5/lab231](http://fptu.netlify.app/hoc-tap/se/semester-5/lab231)
 
-**SWR302 - Software Requirement**
-Link drive: [https://drive.google.com/drive/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1?usp=sharing](https://drive.google.com/drive/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1?usp=sharing)
+**SWR302 - Software Requirement**: [http://fptu.netlify.app/hoc-tap/se/semester-5/swr302](http://fptu.netlify.app/hoc-tap/se/semester-5/swr302)
 
-**SWT301 - Software Testing**
-Link drive: [https://drive.google.com/drive/folders/1crtcJPsV8w3dNckWskJnYqKHmTWoSntT?usp=sharing](https://drive.google.com/drive/folders/1crtcJPsV8w3dNckWskJnYqKHmTWoSntT?usp=sharing)
+**SWT301 - Software Testing**: [http://fptu.netlify.app/hoc-tap/se/semester-5/swt301](http://fptu.netlify.app/hoc-tap/se/semester-5/swt301)
 
-**PRN292 - .NET and C**
-Link drive: [https://drive.google.com/drive/folders/1r7ZqeqAVMNNBExKyuiWzHFWiFPDtL4V6?usp=sharing](https://drive.google.com/drive/folders/1r7ZqeqAVMNNBExKyuiWzHFWiFPDtL4V6?usp=sharing)
+**PRN292 - .NET and C**: [http://fptu.netlify.app/hoc-tap/se/semester-5/prn292](http://fptu.netlify.app/hoc-tap/se/semester-5/prn292)
 
 ### Kỳ 6:
 
-**SYB301 - Start Your Business**
-Link drive: [https://drive.google.com/drive/folders/1hZcN_4a0MHA4MFiELNm9uBLXJ0PRLz_y?usp=sharing](https://drive.google.com/drive/folders/1hZcN_4a0MHA4MFiELNm9uBLXJ0PRLz_y?usp=sharing)
+**SYB301 - Start Your Business**: [http://fptu.netlify.app/hoc-tap/se/semester-6/syb301](http://fptu.netlify.app/hoc-tap/se/semester-6/syb301)
 
 **OJT**
 
 ### Kỳ 7:
 
-**ACC101 - Principles of Accounting**
-Link drive: [https://drive.google.com/drive/folders/1ivuNWWN-a9FaZBB0hCYNyzdB_V12gVbq?usp=sharing](https://drive.google.com/drive/folders/1ivuNWWN-a9FaZBB0hCYNyzdB_V12gVbq?usp=sharing)
+**ACC101 - Principles of Accounting**: [http://fptu.netlify.app/hoc-tap/se/semester-7/acc101](http://fptu.netlify.app/hoc-tap/se/semester-7/acc101)
 
-**HCI201 - Human-Computer Interaction**
-Link drive: [https://drive.google.com/drive/folders/1Y44jhTCGZYLQGWmDPxum-_CcKpQ9aSou?usp=sharing](https://drive.google.com/drive/folders/1Y44jhTCGZYLQGWmDPxum-_CcKpQ9aSou?usp=sharing)
+**HCI201 - Human-Computer Interaction**: [http://fptu.netlify.app/hoc-tap/se/semester-7/hci201](http://fptu.netlify.app/hoc-tap/se/semester-7/hci201)
 
-**PRM391 - Mobile Programming**
-Link drive: [https://drive.google.com/drive/folders/1A7E_LesVYOCO-0Ki6F1yH-cMtsln5XJJ?usp=sharing](https://drive.google.com/drive/folders/1A7E_LesVYOCO-0Ki6F1yH-cMtsln5XJJ?usp=sharing)
+**PRM391 - Mobile Programming**: [http://fptu.netlify.app/hoc-tap/se/semester-7/prm391](http://fptu.netlify.app/hoc-tap/se/semester-7/prm391)
 
-**SWD391 - Software Architecture and Design**
-Link drive: [https://drive.google.com/drive/folders/1DK3C5QJoR9iLICg0ZC2Oe8QrMT2K4lok?usp=sharing](https://drive.google.com/drive/folders/1DK3C5QJoR9iLICg0ZC2Oe8QrMT2K4lok?usp=sharing)
+**SWD391 - Software Architecture and Design**: [http://fptu.netlify.app/hoc-tap/se/semester-7/swd391](http://fptu.netlify.app/hoc-tap/se/semester-7/swd391)
 
-**ISC301 - e-Commerce**
-Link drive: [https://drive.google.com/drive/folders/1gWm8RTva9R4UmO53ZdNCMWxJeMONubj7?usp=sharing](https://drive.google.com/drive/folders/1gWm8RTva9R4UmO53ZdNCMWxJeMONubj7?usp=sharing)
+**ISC301 - e-Commerce**: [http://fptu.netlify.app/hoc-tap/se/semester-7/isc301](http://fptu.netlify.app/hoc-tap/se/semester-7/isc301)
 
 ### Kỳ 8:
 
-**MAS291 - Statistics and Probability**
-Link drive: [https://drive.google.com/drive/folders/1dB6f9oqccvzzLh4mo-F36NsUiq-hdTNd?usp=sharing](https://drive.google.com/drive/folders/1dB6f9oqccvzzLh4mo-F36NsUiq-hdTNd?usp=sharing)
+**MAS291 - Statistics and Probability**: [http://fptu.netlify.app/hoc-tap/se/semester-8/mas291](http://fptu.netlify.app/hoc-tap/se/semester-8/mas291)
 
-**DBW301 - Data warehouse**
-Link drive: [https://drive.google.com/drive/folders/1AirAFMRx-8odj8zcUmprr6Pp-7bmP3mz?usp=sharing](https://drive.google.com/drive/folders/1AirAFMRx-8odj8zcUmprr6Pp-7bmP3mz?usp=sharing)
+**DBW301 - Data warehouse**: [http://fptu.netlify.app/hoc-tap/se/semester-8/dbw301](http://fptu.netlify.app/hoc-tap/se/semester-8/dbw301)
 
-**MLN101 - Principles of Marxism - Leninism**
-Link drive: [https://drive.google.com/drive/folders/1vynmdFztWsmnKpeDVcKSV_9gz3lajzKS?usp=sharing](https://drive.google.com/drive/folders/1vynmdFztWsmnKpeDVcKSV_9gz3lajzKS?usp=sharing)
+**MLN101 - Principles of Marxism - Leninism**: [http://fptu.netlify.app/hoc-tap/se/semester-8/mln101](http://fptu.netlify.app/hoc-tap/se/semester-8/mln101)
 
-**PMG201c - Project management**
-Link drive: [https://drive.google.com/drive/folders/14RCaxst9BRZirgMzxPzdFFy3ifk2wYnO?usp=sharing](https://drive.google.com/drive/folders/14RCaxst9BRZirgMzxPzdFFy3ifk2wYnO?usp=sharing)
+**PMG201c - Project management**: [http://fptu.netlify.app/hoc-tap/se/semester-8/pmg201c](http://fptu.netlify.app/hoc-tap/se/semester-8/pmg201c)
 
-**PRX301 - Web Development (XML)**
-Link drive: [https://drive.google.com/drive/folders/1EK_8FrBDASh72t3efWZ-i4h1XHvxPCUV?usp=sharing](https://drive.google.com/drive/folders/1EK_8FrBDASh72t3efWZ-i4h1XHvxPCUV?usp=sharing)
+**PRX301 - Web Development (XML)**: [http://fptu.netlify.app/hoc-tap/se/semester-8/prx301](http://fptu.netlify.app/hoc-tap/se/semester-8/prx301)
 
 ### Kỳ 9:
 
