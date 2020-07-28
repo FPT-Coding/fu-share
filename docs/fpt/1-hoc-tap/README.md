@@ -40,10 +40,10 @@ Những loại đơn cơ bản sau khi có status: Approved là đơn đã đư�
 
 ## Tổng hợp các đề các môn LAB
 
-- LAB101: [https://drive.google.com/drive/folders/18iY3ewzkC4L4a24CavGez66gnN9OC7Am](https://drive.google.com/drive/folders/18iY3ewzkC4L4a24CavGez66gnN9OC7Am?usp=sharing)
-- LAB211: [https://drive.google.com/drive/folders/1WiB6heFAMTySzR6EBAFgKPA5trU3Wwgd](https://drive.google.com/drive/folders/1WiB6heFAMTySzR6EBAFgKPA5trU3Wwgd?usp=sharing)
-- LAB221: [https://drive.google.com/drive/folders/1F3dSW4CjUzTA9ie9LkAkpx_Vfqexv1F-](https://drive.google.com/drive/folders/1F3dSW4CjUzTA9ie9LkAkpx_Vfqexv1F-?usp=sharing)
-- LAB231: [https://drive.google.com/drive/folders/1QN7174V-fFYVr_6fOEeKt6biqD_yorrz](https://drive.google.com/drive/folders/1QN7174V-fFYVr_6fOEeKt6biqD_yorrz?usp=sharing)
+- LAB101: [http://fptu.netlify.app/hoc-tap/lab/lab101](http://fptu.netlify.app/hoc-tap/lab/lab101)
+- LAB211: [http://fptu.netlify.app/hoc-tap/lab/lab211](http://fptu.netlify.app/hoc-tap/lab/lab211)
+- LAB221: [http://fptu.netlify.app/hoc-tap/lab/lab221](http://fptu.netlify.app/hoc-tap/lab/lab221)
+- LAB231: [http://fptu.netlify.app/hoc-tap/lab/lab231](http://fptu.netlify.app/hoc-tap/lab/lab231)
 
 ## Cộng đồng chia sẻ tài liệu tham khảo
 
