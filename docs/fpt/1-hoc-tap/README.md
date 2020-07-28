@@ -51,7 +51,7 @@ Những loại đơn cơ bản sau khi có status: Approved là đơn đã đư�
 *Hướng dẫn contribute tài liệu*:
 
 - B1: upload tài liệu của bạn lên drive. Tên folder phải theo cú pháp: **_[Mã ngành]/[Kỳ học]/[Mã môn]_** ví dụ: SE/7/ACC101
-- B2: submit lên form [http://fptu.netlify.app/hoc-tap/form/chia-se](http://fptu.netlify.app/hoc-tap/form/chia-se)
+- B2: submit lên form [http://fptu.netlify.app/chia-se](http://fptu.netlify.app/chia-se)
 - B3: khi bài viết của bạn được duyệt, admin sẽ gửi mail cho bạn, cập nhật lên handbook và đăng lên nhóm FU Share
 
 ### Chuyên ngành SE
@@ -148,11 +148,19 @@ Những loại đơn cơ bản sau khi có status: Approved là đơn đã đư�
 
 ### Kỳ 9:
 
+**ITE302b - Ethics in IT**: [http://fptu.netlify.app/hoc-tap/se/semester-9/ite302b](http://fptu.netlify.app/hoc-tap/se/semester-9/ite302b)
+
+**HCM201 - Ho Chi Minh Ideology**: [http://fptu.netlify.app/hoc-tap/se/semester-9/hcm201](http://fptu.netlify.app/hoc-tap/se/semester-9/hcm201)
+
+**VNR201 - Revolutionary line of CPV**: [http://fptu.netlify.app/hoc-tap/se/semester-9/vnr201](http://fptu.netlify.app/hoc-tap/se/semester-9/vnr201)
+
+**SSC102 - Business Communication**: [http://fptu.netlify.app/hoc-tap/se/semester-9/ssc102](http://fptu.netlify.app/hoc-tap/se/semester-9/ssc102)
+
 ## Quizlet các môn
 
 Cộng đồng chia sẻ quizlet các môn, các bạn có thể join class và contribute để cùng nhau học thật, thi thật, thành công thật.
 
-[https://quizlet.com/join/3zu5dpjaX](https://quizlet.com/join/3zu5dpjaX)
+[http://fptu.netlify.app/quizlet](http://fptu.netlify.app/quizlet)
 
 ## Chiến thuật thi FE, PE
 ### 1.	Chuẩn bị chung trước khi đi thi
@@ -174,4 +182,5 @@ Cộng đồng chia sẻ quizlet các môn, các bạn có thể join class và 
 	Thứ 2 là đọc hiểu nội dung của câu hỏi và các đáp án, take note lại những nội dung mà mình học được từ các câu hỏi và học các nội dung đó.
 
 ## Thông tin giảng viên
-[https://docs.google.com/spreadsheets/d/1nyOCAGwwxBLs-fAShMk_V5pHR5LN_9n8GXSdjyNCVTY/edit#gid=0](https://docs.google.com/spreadsheets/d/1nyOCAGwwxBLs-fAShMk_V5pHR5LN_9n8GXSdjyNCVTY/edit#gid=0)
+
+[http://fptu.netlify.app/giang-vien](http://fptu.netlify.app/giang-vien)
