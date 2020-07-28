@@ -58,54 +58,39 @@ Những loại đơn cơ bản sau khi có status: Approved là đơn đã đư�
 
 ### Kỳ 1:
 
-**MAE101 - Mathematics for Engineering**
-Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-1/mae101](http://fptu.netlify.app/hoc-tap/se/semester-1/mae101)
+**MAE101 - Mathematics for Engineering**: [http://fptu.netlify.app/hoc-tap/se/semester-1/mae101](http://fptu.netlify.app/hoc-tap/se/semester-1/mae101)
 
-**CEA201 - Computer Organization and Architecture**
-Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-1/cea201](http://fptu.netlify.app/hoc-tap/se/semester-1/cea201)
+**CEA201 - Computer Organization and Architecture**: [http://fptu.netlify.app/hoc-tap/se/semester-1/cea201](http://fptu.netlify.app/hoc-tap/se/semester-1/cea201)
 
-**CSI101 - Connecting to Computer Science**
-Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-1/csi101](http://fptu.netlify.app/hoc-tap/se/semester-1/csi101)
+**CSI101 - Connecting to Computer Science**: [http://fptu.netlify.app/hoc-tap/se/semester-1/csi101](http://fptu.netlify.app/hoc-tap/se/semester-1/csi101)
 
-**PRF192 - Programming Fundamentals**
-Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-1/prf192](http://fptu.netlify.app/hoc-tap/se/semester-1/prf192)
+**PRF192 - Programming Fundamentals**: [http://fptu.netlify.app/hoc-tap/se/semester-1/prf192](http://fptu.netlify.app/hoc-tap/se/semester-1/prf192)
 
-**SSG101 - Working in Group Skills**
-Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-1/ssg101](http://fptu.netlify.app/hoc-tap/se/semester-1/ssg101)
+**SSG101 - Working in Group Skills**: [http://fptu.netlify.app/hoc-tap/se/semester-1/ssg101](http://fptu.netlify.app/hoc-tap/se/semester-1/ssg101)
 
 ### Kỳ 2:
 
-**DBI202 - Introduction to Databases**
-Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-2/dbi202](http://fptu.netlify.app/hoc-tap/se/semester-2/dbi202)
+**DBI202 - Introduction to Databases**: [http://fptu.netlify.app/hoc-tap/se/semester-2/dbi202](http://fptu.netlify.app/hoc-tap/se/semester-2/dbi202)
 
-**PRO201 - Front-end Web Development**
-Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro201](http://fptu.netlify.app/hoc-tap/se/semester-2/pro201)
+**PRO201 - Front-end Web Development**: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro201](http://fptu.netlify.app/hoc-tap/se/semester-2/pro201)
 
-**PRO192 - Object-Oriented Programming**
-Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro201](http://fptu.netlify.app/hoc-tap/se/semester-2/pro201)
+**PRO192 - Object-Oriented Programming**: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro201](http://fptu.netlify.app/hoc-tap/se/semester-2/pro201)
 
-**MAD101 - Discrete mathematics**
-Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro201](http://fptu.netlify.app/hoc-tap/se/semester-2/pro201)
+**MAD101 - Discrete mathematics**: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro201](http://fptu.netlify.app/hoc-tap/se/semester-2/pro201)
 
-**LAB101 - C Lab**
-Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro201](http://fptu.netlify.app/hoc-tap/se/semester-2/pro201)
+**LAB101 - C Lab**: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro201](http://fptu.netlify.app/hoc-tap/se/semester-2/pro201)
 
 ### Kỳ 3:
 
-**PRJ311 - Desktop Java Applications**
-Link drive: [https://drive.google.com/drive/folders/1-xS6H9KTGyeXav_ZBFWxtGjXy2MqYFnd?usp=sharing](https://drive.google.com/drive/folders/1-xS6H9KTGyeXav_ZBFWxtGjXy2MqYFnd?usp=sharing)
+**PRJ311 - Desktop Java Applications**: [https://drive.google.com/drive/folders/1-xS6H9KTGyeXav_ZBFWxtGjXy2MqYFnd?usp=sharing](https://drive.google.com/drive/folders/1-xS6H9KTGyeXav_ZBFWxtGjXy2MqYFnd?usp=sharing)
 
-**LAB211 - OOP with Java Lab**
-Link drive: [https://drive.google.com/drive/folders/1nHel5X4T9Cr7-B_aFQg3I4O8cKN_DI-x?usp=sharing](https://drive.google.com/drive/folders/1nHel5X4T9Cr7-B_aFQg3I4O8cKN_DI-x?usp=sharing)
+**LAB211 - OOP with Java Lab**: [https://drive.google.com/drive/folders/1nHel5X4T9Cr7-B_aFQg3I4O8cKN_DI-x?usp=sharing](https://drive.google.com/drive/folders/1nHel5X4T9Cr7-B_aFQg3I4O8cKN_DI-x?usp=sharing)
 
-**OSG202 - Operating Systems**
-Link drive: [https://drive.google.com/drive/folders/1vIvjvIV-VCYNtv7I0G1G0Q8vz9OCOqi7?usp=sharing](https://drive.google.com/drive/folders/1vIvjvIV-VCYNtv7I0G1G0Q8vz9OCOqi7?usp=sharing)
+**OSG202 - Operating Systems**: [https://drive.google.com/drive/folders/1vIvjvIV-VCYNtv7I0G1G0Q8vz9OCOqi7?usp=sharing](https://drive.google.com/drive/folders/1vIvjvIV-VCYNtv7I0G1G0Q8vz9OCOqi7?usp=sharing)
 
-**JPD111 - Elementary Japanese 1.1**
-Link drive: [https://drive.google.com/drive/folders/1U9OQ0S6pYuOVDQoh_9_rh99FHEwSaGpr?usp=sharing](https://drive.google.com/drive/folders/1U9OQ0S6pYuOVDQoh_9_rh99FHEwSaGpr?usp=sharing)
+**JPD111 - Elementary Japanese 1.1**: [https://drive.google.com/drive/folders/1U9OQ0S6pYuOVDQoh_9_rh99FHEwSaGpr?usp=sharing](https://drive.google.com/drive/folders/1U9OQ0S6pYuOVDQoh_9_rh99FHEwSaGpr?usp=sharing)
 
-**CSD201 - Data Structures and Algorithms**
-Link drive: [https://drive.google.com/drive/folders/1GWof1oKpv025kWJiWEVf5cad3dRYPCz8?usp=sharing](https://drive.google.com/drive/folders/1GWof1oKpv025kWJiWEVf5cad3dRYPCz8?usp=sharing)
+**CSD201 - Data Structures and Algorithms**: [https://drive.google.com/drive/folders/1GWof1oKpv025kWJiWEVf5cad3dRYPCz8?usp=sharing](https://drive.google.com/drive/folders/1GWof1oKpv025kWJiWEVf5cad3dRYPCz8?usp=sharing)
 
 ### Kỳ 4:
 
