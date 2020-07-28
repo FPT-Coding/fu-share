@@ -59,36 +59,36 @@ Những loại đơn cơ bản sau khi có status: Approved là đơn đã đư�
 ### Kỳ 1:
 
 **MAE101 - Mathematics for Engineering**
-Link drive: [https://drive.google.com/drive/folders/1sAH25J4S0IY2N2ZdKxPicw2ka0lfPhxO?usp=sharing](https://drive.google.com/drive/folders/1sAH25J4S0IY2N2ZdKxPicw2ka0lfPhxO?usp=sharing)
+Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-1/mae101](http://fptu.netlify.app/hoc-tap/se/semester-1/mae101)
 
 **CEA201 - Computer Organization and Architecture**
-Link drive: [https://drive.google.com/drive/folders/12ny5ZQMojfvlnAW-qRwHUuF76YU8JhZW?usp=sharing](https://drive.google.com/drive/folders/12ny5ZQMojfvlnAW-qRwHUuF76YU8JhZW?usp=sharing)
+Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-1/cea201](http://fptu.netlify.app/hoc-tap/se/semester-1/cea201)
 
 **CSI101 - Connecting to Computer Science**
-Link drive: [https://drive.google.com/drive/folders/1FgDoAJ2ReoByn9MO9LlRBA-dEeNCHpTT?usp=sharing](https://drive.google.com/drive/folders/1FgDoAJ2ReoByn9MO9LlRBA-dEeNCHpTT?usp=sharing)
+Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-1/csi101](http://fptu.netlify.app/hoc-tap/se/semester-1/csi101)
 
 **PRF192 - Programming Fundamentals**
-Link drive: [https://drive.google.com/drive/folders/1yFH0QtsqsLT1C2WE9xNJqA4707zXVzsg?usp=sharing](https://drive.google.com/drive/folders/1yFH0QtsqsLT1C2WE9xNJqA4707zXVzsg?usp=sharing)
+Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-1/prf192](http://fptu.netlify.app/hoc-tap/se/semester-1/prf192)
 
 **SSG101 - Working in Group Skills**
-Link drive: [https://drive.google.com/drive/folders/1t_w1JmpSp2GJJ4_MbcvSRKrT0Vw0fY8K?usp=sharing](https://drive.google.com/drive/folders/1t_w1JmpSp2GJJ4_MbcvSRKrT0Vw0fY8K?usp=sharing)
+Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-1/ssg101](http://fptu.netlify.app/hoc-tap/se/semester-1/ssg101)
 
 ### Kỳ 2:
 
 **DBI202 - Introduction to Databases**
-Link drive: [https://drive.google.com/drive/folders/1pAKLmPhDww2SPgM05gBLAjQomOj1KzTA?usp=sharing](https://drive.google.com/drive/folders/1pAKLmPhDww2SPgM05gBLAjQomOj1KzTA?usp=sharing)
+Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-2/dbi202](http://fptu.netlify.app/hoc-tap/se/semester-2/dbi202)
 
 **PRO201 - Front-end Web Development**
-Link drive: [https://drive.google.com/drive/folders/1dinFca48pS2aqg57sFHG_l7fQcrk_pdF?usp=sharing](https://drive.google.com/drive/folders/1dinFca48pS2aqg57sFHG_l7fQcrk_pdF?usp=sharing)
+Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro201](http://fptu.netlify.app/hoc-tap/se/semester-2/pro201)
 
 **PRO192 - Object-Oriented Programming**
-Link drive: [https://drive.google.com/drive/folders/1hnb7QYflw5Gr2Lb3NuXH8GNBZbwLHHjs?usp=sharing](https://drive.google.com/drive/folders/1hnb7QYflw5Gr2Lb3NuXH8GNBZbwLHHjs?usp=sharing)
+Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro201](http://fptu.netlify.app/hoc-tap/se/semester-2/pro201)
 
 **MAD101 - Discrete mathematics**
-Link drive: [https://drive.google.com/drive/folders/17CsyQ8jDCT5zlOUhZ9VnvdlpQlzhNmMF?usp=sharing](https://drive.google.com/drive/folders/17CsyQ8jDCT5zlOUhZ9VnvdlpQlzhNmMF?usp=sharing)
+Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro201](http://fptu.netlify.app/hoc-tap/se/semester-2/pro201)
 
 **LAB101 - C Lab**
-Link drive: [https://drive.google.com/drive/folders/14To2VY_XgMvHXYIPx0x0q4_0HS0adrbW?usp=sharing](https://drive.google.com/drive/folders/14To2VY_XgMvHXYIPx0x0q4_0HS0adrbW?usp=sharing)
+Link drive: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro201](http://fptu.netlify.app/hoc-tap/se/semester-2/pro201)
 
 ### Kỳ 3:
 
