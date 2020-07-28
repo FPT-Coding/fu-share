@@ -51,9 +51,8 @@ Những loại đơn cơ bản sau khi có status: Approved là đơn đã đư�
 *Hướng dẫn contribute tài liệu*:
 
 - B1: upload tài liệu của bạn lên drive. Tên folder phải theo cú pháp: **_[Mã ngành]/[Kỳ học]/[Mã môn]_** ví dụ: SE/7/ACC101
-- B2: submit lên form [https://docs.google.com/forms/d/e/1FAIpQLSepERJPKZgAKswsd_tkUTCzDeKwXzIjtCcW8r454ZYQ0XcKrw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSepERJPKZgAKswsd_tkUTCzDeKwXzIjtCcW8r454ZYQ0XcKrw/viewform)
+- B2: submit lên form [http://fptu.netlify.app/hoc-tap/form/chia-se](http://fptu.netlify.app/hoc-tap/form/chia-se)
 - B3: khi bài viết của bạn được duyệt, admin sẽ gửi mail cho bạn, cập nhật lên handbook và đăng lên nhóm FU Share
-
 
 ### Chuyên ngành SE
 
