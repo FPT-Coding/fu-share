@@ -82,15 +82,15 @@ Những loại đơn cơ bản sau khi có status: Approved là đơn đã đư�
 
 ### Kỳ 3:
 
-**PRJ311 - Desktop Java Applications**: [https://drive.google.com/drive/folders/1-xS6H9KTGyeXav_ZBFWxtGjXy2MqYFnd?usp=sharing](https://drive.google.com/drive/folders/1-xS6H9KTGyeXav_ZBFWxtGjXy2MqYFnd?usp=sharing)
+**PRJ311 - Desktop Java Applications**: [http://fptu.netlify.app/hoc-tap/se/semester-3/prj311](http://fptu.netlify.app/hoc-tap/se/semester-3/prj311)
 
-**LAB211 - OOP with Java Lab**: [https://drive.google.com/drive/folders/1nHel5X4T9Cr7-B_aFQg3I4O8cKN_DI-x?usp=sharing](https://drive.google.com/drive/folders/1nHel5X4T9Cr7-B_aFQg3I4O8cKN_DI-x?usp=sharing)
+**LAB211 - OOP with Java Lab**: [http://fptu.netlify.app/hoc-tap/se/semester-3/lab211](http://fptu.netlify.app/hoc-tap/se/semester-3/lab211)
 
-**OSG202 - Operating Systems**: [https://drive.google.com/drive/folders/1vIvjvIV-VCYNtv7I0G1G0Q8vz9OCOqi7?usp=sharing](https://drive.google.com/drive/folders/1vIvjvIV-VCYNtv7I0G1G0Q8vz9OCOqi7?usp=sharing)
+**OSG202 - Operating Systems**: [http://fptu.netlify.app/hoc-tap/se/semester-3/osg202](http://fptu.netlify.app/hoc-tap/se/semester-3/osg202)
 
-**JPD111 - Elementary Japanese 1.1**: [https://drive.google.com/drive/folders/1U9OQ0S6pYuOVDQoh_9_rh99FHEwSaGpr?usp=sharing](https://drive.google.com/drive/folders/1U9OQ0S6pYuOVDQoh_9_rh99FHEwSaGpr?usp=sharing)
+**JPD111 - Elementary Japanese 1.1**: [http://fptu.netlify.app/hoc-tap/se/semester-3/jpd111](http://fptu.netlify.app/hoc-tap/se/semester-3/jpd111)
 
-**CSD201 - Data Structures and Algorithms**: [https://drive.google.com/drive/folders/1GWof1oKpv025kWJiWEVf5cad3dRYPCz8?usp=sharing](https://drive.google.com/drive/folders/1GWof1oKpv025kWJiWEVf5cad3dRYPCz8?usp=sharing)
+**CSD201 - Data Structures and Algorithms**: [http://fptu.netlify.app/hoc-tap/se/semester-3/csd201](http://fptu.netlify.app/hoc-tap/se/semester-3/csd201)
 
 ### Kỳ 4:
 
