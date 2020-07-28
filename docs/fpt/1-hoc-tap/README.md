@@ -11,16 +11,16 @@ meta:
 ## Chia sẻ quy trình làm đơn
 
 ### Mẫu đơn
-- Đơn xin miễn điểm danh(Cho trường hợp đi làm):  [http://fptu.netlify.app/hoc-tap/mau-don/mien-diem-danh](http://fptu.netlify.app/hoc-tap/mau-don/mien-diem-danhw)
 - Đơn bảo lưu học phần: [http://fptu.netlify.app/hoc-tap/mau-don/bao-luu-hoc-phan](http://fptu.netlify.app/hoc-tap/mau-don/bao-luu-hoc-phan)
 - Đơn xin chuyển ngành: [http://fptu.netlify.app/hoc-tap/mau-don/xin-chuyen-nganh](http://fptu.netlify.app/hoc-tap/mau-don/xin-chuyen-nganh)
 - Đơn đề nghị phúc tra: [http://fptu.netlify.app/hoc-tap/mau-don/de-nghi-phuc-tra](http://fptu.netlify.app/hoc-tap/mau-don/de-nghi-phuc-tra) 
 - Đơn xin chuyển cơ sở học: [http://fptu.netlify.app/hoc-tap/mau-don/chuyen-co-so-hoc](http://fptu.netlify.app/hoc-tap/mau-don/chuyen-co-so-hoc)
 - Đơn đăng ký thi cải thiện điểm: [http://fptu.netlify.app/hoc-tap/mau-don/cai-thien-diem](http://fptu.netlify.app/hoc-tap/mau-don/cai-thien-diem)
-- Giấy xác nhận sinh viên(Trong trường hợp bị gọi đi nghĩa vụ, vay ngân hàng,...): [http://fptu.netlify.app/hoc-tap/mau-don/xac-nhanh-sinh-vien](http://fptu.netlify.app/hoc-tap/mau-don/xac-nhanh-sinh-vien)
+- Đơn xin miễn điểm danh (Cho trường hợp đi làm):  [http://fptu.netlify.app/hoc-tap/mau-don/mien-diem-danh](http://fptu.netlify.app/hoc-tap/mau-don/mien-diem-danhw)
+- Giấy xác nhận sinh viên (Cho trường hợp bị gọi đi nghĩa vụ, vay ngân hàng,...): [http://fptu.netlify.app/hoc-tap/mau-don/xac-nhanh-sinh-vien](http://fptu.netlify.app/hoc-tap/mau-don/xac-nhanh-sinh-vien)
 - Đăng ký thi thẩm định môn học online: [http://fptu.netlify.app/hoc-tap/mau-don/tham-dinh-mon-hoc-online](http://fptu.netlify.app/hoc-tap/mau-don/tham-dinh-mon-hoc-online)
-- Phiếu thôi học(Không muốn học tại FPT nữa về quê chăn vịt): [http://fptu.netlify.app/hoc-tap/mau-don/phieu-thoi-hoc](http://fptu.netlify.app/hoc-tap/mau-don/phieu-thoi-hoc)
-- Mẫu đơn 3 chấm(Dùng cho những nhu cầu khác ví dụ: Đá bạn ra khỏi phòng KTX...): [http://fptu.netlify.app/hoc-tap/mau-don/mau-don-ba-cham](http://fptu.netlify.app/hoc-tap/mau-don/mau-don-ba-cham)
+- Phiếu thôi học (Không muốn học tại FPT nữa về quê chăn vịt): [http://fptu.netlify.app/hoc-tap/mau-don/phieu-thoi-hoc](http://fptu.netlify.app/hoc-tap/mau-don/phieu-thoi-hoc)
+- Mẫu đơn 3 chấm (Cho những nhu cầu khác ví dụ: Đá bạn ra khỏi phòng KTX...): [http://fptu.netlify.app/hoc-tap/mau-don/mau-don-ba-cham](http://fptu.netlify.app/hoc-tap/mau-don/mau-don-ba-cham)
 
 ### Quy trình
 - Lên trang: http://fap.fpt.edu.vn chọn “Send Application(Gửi đơn)” ở mục “Registration/Application(Thủ tục/đơn từ)”
