@@ -11,16 +11,16 @@ meta:
 ## Chia sẻ quy trình làm đơn
 
 ### Mẫu đơn
-- Đơn xin miễn điểm danh(Cho trường hợp đi làm):  [https://drive.google.com/file/d/1IuPOEv2bMYWopLC1B4gJ6SqUrtGgEQ3Q/view](https://drive.google.com/file/d/1IuPOEv2bMYWopLC1B4gJ6SqUrtGgEQ3Q/view)
-- Đơn bảo lưu học phần: [https://drive.google.com/file/d/1onZpPGUSHhNXqtxwyGJ4cGR1tAHMtKpw/view](https://drive.google.com/file/d/1onZpPGUSHhNXqtxwyGJ4cGR1tAHMtKpw/view)
-- Đơn xin chuyển ngành: [https://drive.google.com/file/d/19hkAAdxsNnh-seq5V2CcPQR7ks7vXHJ2/view](https://drive.google.com/file/d/19hkAAdxsNnh-seq5V2CcPQR7ks7vXHJ2/view)
-- Đơn đề nghị phúc tra: [https://drive.google.com/file/d/1Gx8VxjRoGmv-eKNfqAV_q55v_Mx7U3qx/view](https://drive.google.com/file/d/1Gx8VxjRoGmv-eKNfqAV_q55v_Mx7U3qx/view) 
-- Đơn xin chuyển cơ sở học: [https://drive.google.com/file/d/1_8MsVOd3tou2sUB_truFfAJGktLxatAQ/view](https://drive.google.com/file/d/1_8MsVOd3tou2sUB_truFfAJGktLxatAQ/view)
-- Đơn đăng ký thi cải thiện điểm: [https://drive.google.com/file/d/1B5oaSU-JIJm9v9N15x1mW8ou1GKSWQ1n/view](https://drive.google.com/file/d/1B5oaSU-JIJm9v9N15x1mW8ou1GKSWQ1n/view)
-- Giấy xác nhận sinh viên(Trong trường hợp bị goi đi nghĩa vụ): [https://drive.google.com/file/d/190PAevYXqCq0tJdwdExT-raRU3Rp21F-/view](https://drive.google.com/file/d/190PAevYXqCq0tJdwdExT-raRU3Rp21F-/view)
-- Đăng ký thi thẩm định môn học online(Khi học online mà thì trượt @@): [https://drive.google.com/file/d/10U4rT4ftjdxErrDvvqON6AB5zn7Uca7e/view](https://drive.google.com/file/d/10U4rT4ftjdxErrDvvqON6AB5zn7Uca7e/view)
-- Phiếu thôi học(Không muốn học tại FPT nữa về quê chăn vịt): [https://drive.google.com/file/d/1Gbv4lcY6Sf_rQjnRBsUZq5rSRkg9CwMe/view](https://drive.google.com/file/d/1Gbv4lcY6Sf_rQjnRBsUZq5rSRkg9CwMe/view)
-- Mẫu đơn 3 chấm(Dùng cho những nhu cầu khác ví dụ: Đá bạn ra khỏi phòng KTX 😊): [https://drive.google.com/file/d/14O5TlflgaNBxFNPISpYvrMcvs90oNbah/view](https://drive.google.com/file/d/14O5TlflgaNBxFNPISpYvrMcvs90oNbah/view)
+- Đơn xin miễn điểm danh(Cho trường hợp đi làm):  [http://fptu.netlify.app/hoc-tap/mau-don/mien-diem-danh](http://fptu.netlify.app/hoc-tap/mau-don/mien-diem-danhw)
+- Đơn bảo lưu học phần: [http://fptu.netlify.app/hoc-tap/mau-don/bao-luu-hoc-phan](http://fptu.netlify.app/hoc-tap/mau-don/bao-luu-hoc-phan)
+- Đơn xin chuyển ngành: [http://fptu.netlify.app/hoc-tap/mau-don/xin-chuyen-nganh](http://fptu.netlify.app/hoc-tap/mau-don/xin-chuyen-nganh)
+- Đơn đề nghị phúc tra: [http://fptu.netlify.app/hoc-tap/mau-don/de-nghi-phuc-tra](http://fptu.netlify.app/hoc-tap/mau-don/de-nghi-phuc-tra) 
+- Đơn xin chuyển cơ sở học: [http://fptu.netlify.app/hoc-tap/mau-don/chuyen-co-so-hoc](http://fptu.netlify.app/hoc-tap/mau-don/chuyen-co-so-hoc)
+- Đơn đăng ký thi cải thiện điểm: [http://fptu.netlify.app/hoc-tap/mau-don/cai-thien-diem](http://fptu.netlify.app/hoc-tap/mau-don/cai-thien-diem)
+- Giấy xác nhận sinh viên(Trong trường hợp bị gọi đi nghĩa vụ, vay ngân hàng,...): [http://fptu.netlify.app/hoc-tap/mau-don/xac-nhanh-sinh-vien](http://fptu.netlify.app/hoc-tap/mau-don/xac-nhanh-sinh-vien)
+- Đăng ký thi thẩm định môn học online: [http://fptu.netlify.app/hoc-tap/mau-don/tham-dinh-mon-hoc-online](http://fptu.netlify.app/hoc-tap/mau-don/tham-dinh-mon-hoc-online)
+- Phiếu thôi học(Không muốn học tại FPT nữa về quê chăn vịt): [http://fptu.netlify.app/hoc-tap/mau-don/phieu-thoi-hoc](http://fptu.netlify.app/hoc-tap/mau-don/phieu-thoi-hoc)
+- Mẫu đơn 3 chấm(Dùng cho những nhu cầu khác ví dụ: Đá bạn ra khỏi phòng KTX...): [http://fptu.netlify.app/hoc-tap/mau-don/mau-don-ba-cham](http://fptu.netlify.app/hoc-tap/mau-don/mau-don-ba-cham)
 
 ### Quy trình
 - Lên trang: http://fap.fpt.edu.vn chọn “Send Application(Gửi đơn)” ở mục “Registration/Application(Thủ tục/đơn từ)”
