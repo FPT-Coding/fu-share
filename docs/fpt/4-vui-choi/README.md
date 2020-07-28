@@ -152,7 +152,7 @@ Một vài tips nhỏ khi đi Sơn Tinh Camp:
 
 ### 5. Nông trại Detrang Farm Ba Vì.
 
-![Nông trại Detrang Farm Ba Vì.](/choi-06.png)
+![Nông trại Detrang Farm Ba Vì.](/play-06.png)
 
 "Nông trại xanh, sống an lành" là phương châm đã in sâu vào cả con tim và khối óc của từng người nông dân Detrang Farm. Ước mơ về một nông trại xanh, đem đến những thực phẩm tôn trọng tự nhiên đang trở thành hiện thực tại nơi đây. Cũng là một địa điểm nghỉ dưỡng tại Ba vì, nơi đây cũng là một không gian vui chơi dành cho các đội nhóm muốn tổ chức các sự kiện teambuilding trong những ngày cuối tuần của mình.
 
@@ -193,4 +193,4 @@ Một vài tips nhỏ khi đi Detrang Farm:
 - Không nên mang đồ ăn vào cũng được nhưng mất phí đấy.
 - Có những hoạt động rất "ướt" nên mang thêm nhiều quần áo để thay thế sau khi vui chơi.
 - Mang thêm chăn và quần áo khoác vì buổi tối khá lạnh và có sương.
-- Mang thêm thuốc bôi trị côn trùng cắn nữa. Vì đây là không gian khá thiên nhiên nên không thể tránh khỏi rồi :)
+- Mang thêm thuốc bôi trị côn trùng cắn nữa. Vì đây là không gian khá thiên nhiên nên không thể tránh khỏi rồi
