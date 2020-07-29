@@ -61,7 +61,7 @@ Lưu ý khi đặt, hủy phòng
 - Lúc thuê trọ nên để ý phòng trọ có điều hòa hay không vì thời tiết Hòa Lạc mùa hè khá nóng.
 
 ### Một số kênh liên review nhà trọ chất lượng
-- Hội review nhà trọ có tâm Hòa Lạc: [https://bit.ly/2ZSVdH0](https://bit.ly/2ZSVdH0)
+- Hội review nhà trọ có tâm Hòa Lạc: [http://fptu.netlify.com/cho-o/review-nha-tro](http://fptu.netlify.com/cho-o/review-nha-tro)
 
 ### Một số hình ảnh đậm tính chất hiện thực về sinh viên FU ở trọ ngoài
 
