@@ -12,6 +12,56 @@ Nằm trên mảnh đắt Hòa Lạc, nơi cách xa thủ đổ Hà Nội hơn b
 
 ## Vui chơi gần
 
+Mảnh đất Hòa Lạc này còn khá hạn chế điểm vui chơi giải trí lành mạnh. Dưới đây là tổng hợp một số điểm vui chơi để sinh viên có thể giải trí sau những giờ học căng thẳng hoặc sau một tuần học tập làm việc mệt nhọc
+
+### Bida
+
+- Địa điểm: bên trên cây xăng một đoạn
+- Số lượng bàn: 2
+- Giá cả: 25k/1h
+- Nhận xét: về cơ bản là bàn và cơ đã cũ rồi, phù hợp với anh em vui chơi tập luyện giải trí còn với anh em cần sự chuyên nghiệp thì ở xung quanh Hòa Lạc thì chưa có.
+
+![hòa lạc gần](/game-01.png)
+
+- Địa điểm ở gần chợ Hòa Lạc từ phía trường mình lên
+- Số lượng bàn: 3
+- Giá cả: 40k/1h
+- Nhận xét: bàn và cơ vẫn còn khá mới, nhưng cũng đang cũ dần
+
+Ngoài ra thì còn một điểm ở Tân Xã, một điểm ở khúc cua đi ra Hà Nội nhưng lâu rồi mình không đi nên không review được. Ai biết thì đóng góp nhé
+
+![hòa lạc gần](/game-07.png)
+
+### Karaoke
+
+- Địa điểm: bên trên quán bia 113 một đoạn, bên tay phải
+- Số lượng phòng: 8
+- Giá cả: 80k/1h
+
+![hòa lạc gần](/game-01.png)
+
+- Địa điểm: gần chợ Hòa Lạc
+- Số lượng phòng: ...
+- Giá cả: 100k/1h
+
+![hòa lạc gần](/game-01.png)
+
+### Gaming
+
+Địa điểm: trên quán bia 113 một đoạn, bên tay phải
+
+![hòa lạc gần](/game-01.png)
+
+Địa điểm: thôn 8 - Thạch Hòa - Thạch Thất
+
+![hòa lạc gần](/game-01.png)
+
+### Khác
+
+Ngoài ra còn một số địa điểm vui chơi giải trí khác, hy vọng anh em sẽ đóng góp,...
+
+![hòa lạc gần](/game-01.png)
+
 ## Vui chơi xa
 
 ![Hòa Lạc xa](/choi-01.png)
@@ -88,7 +138,7 @@ Khu vực vườn Quốc gia Ba Vì có rất nhiều địa điểm thăm quan 
 ![Làng Văn hoá - Du lịch các dân tộc Việt Nam.](/choi-04.png)
 
 Làng văn hóa các dân tộc Việt Nam là một phần thuộc khu du lịch Đồng Mô, Sơn Tây, Hà Nội. Khu bảo tồn là nơi tái hiện đời sống sinh hoạt các tộc người trên khắp nước Việt Nam. Cùng năm trên mảnh đất Ba vì, thật dễ dàng để chung ta thu xếp 1 buổi đi chơi nhẹ nhàng cuối tuần.
- 
+
 - Quãng đường: 15 - 19km tùy đường.
 - Thời gian di chuyển: 25 - 30 phút.
 - Phương tiện đề xuất: vẫn là ưu tiên xe số khỏe một tý.
