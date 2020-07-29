@@ -38,29 +38,29 @@ Ngoài ra thì còn một điểm ở Tân Xã, một điểm ở khúc cua đi 
 - Số lượng phòng: 8
 - Giá cả: 80k/1h
 
-![hòa lạc gần](/game-01.png)
+![hòa lạc gần](/game-02.png)
 
 - Địa điểm: gần chợ Hòa Lạc
 - Số lượng phòng: ...
 - Giá cả: 100k/1h
 
-![hòa lạc gần](/game-01.png)
+![hòa lạc gần](/game-05.png)
 
 ### Gaming
 
 Địa điểm: trên quán bia 113 một đoạn, bên tay phải
 
-![hòa lạc gần](/game-01.png)
+![hòa lạc gần](/game-03.png)
 
 Địa điểm: thôn 8 - Thạch Hòa - Thạch Thất
 
-![hòa lạc gần](/game-01.png)
+![hòa lạc gần](/game-06.png)
 
 ### Khác
 
 Ngoài ra còn một số địa điểm vui chơi giải trí khác, hy vọng anh em sẽ đóng góp,...
 
-![hòa lạc gần](/game-01.png)
+![hòa lạc gần](/game-04.png)
 
 ## Vui chơi xa
 
