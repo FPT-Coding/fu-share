@@ -186,9 +186,9 @@ Là vùng đất nằm trên một bán đảo có ba mặt giáp với hồ Đ�
 ![bang-gia-dich-vu-son-tinh-camp-1](/bang-gia-dich-vu-son-tinh-camp-1.jpg)
 ![bang-gia-dich-vu-son-tinh-camp-2](/bang-gia-dich-vu-son-tinh-camp-2.jpg)
 
-Một vài tips nhỏ khi đi Sơn Tinh Camp:
+#### Một vài tips nhỏ khi đi Sơn Tinh Camp:
 
-- Chuẩn bị đồ ăn làm ăn mang theo, nếu không muốn mất nhiều chi phí có thể mang dụng cụ nướng, bếp nướng, gia vị kèm theo để không phải thuê.
+- Chuẩn bị đồ ăn mang theo, nếu không muốn mất nhiều chi phí có thể mang dụng cụ nướng, bếp nướng, gia vị kèm theo để không phải thuê.
 - Cần chuẩn bị khoảng 2 bộ quần áo trở lên, đồ vệ sinh cá nhân, sữa tắm, kem chống muỗi,… để có thể ở lại qua đêm tại đây.
 - Mang thêm chăn, gối nếu cần để không bị cảm lạnh
 
@@ -234,3 +234,40 @@ Khu vực này có vị trí cao, không khí mát mẻ và không gian cũng r�
 - Có những hoạt động rất "ướt" nên mang thêm nhiều quần áo để thay thế sau khi vui chơi.
 - Mang thêm chăn và quần áo khoác vì buổi tối khá lạnh và có sương.
 - Mang thêm thuốc bôi trị côn trùng cắn nữa. Vì đây là không gian khá thiên nhiên nên không thể tránh khỏi rồi
+
+### 6. Làng cổ đường lâm.
+
+![Làng cổ đường lâm.](/duong_lam.jpg)
+
+Làng cổ Đường Lâm nằm ở huyện Sơn Tây, Hà Nội, cách đại học FPT chỉ khoảng 20km. Đường Lâm là quê hương của Ngô Quyền và Phùng Hưng nên được gọi là “đất hai vua”.
+
+- Quãng đường: 20km.
+- Thời gian di chuyển: 30 - 35 phút.
+- Phương tiện đề xuất: Xe hai bánh.
+
+Cho đến Hiện nay, làng cổ Đường Lâm vẫn lưu giữ được những nét đặc trưng cơ bản của một ngôi làng ở Bắc Bộ với cổng làng, cây đa, bến nước, sân đình,…và 956 ngôi nhà truyền thống.
+
+#### Địa điểm vui chơi:
+
+- Đình làng Mông Phụ.
+- Nhà thờ giáo họ Mông Phụ.
+- Nhà thờ Thám hoa Giang Văn Minh.
+- Các ngôi nhà cổ.
+- Giếng cổ Đường Lâm.
+- Đền thờ Phùng Hưng.
+- Lăng và đền thờ Ngô Quyền.
+
+#### Giá cả dịch vụ
+
+- giá vé gửi xe máy là 10.000 VN.
+- xe và vé tham quan là 20.000 VND / người.
+- thuê xe đạp với giá 30-50.000 VND / giờ hoặc 80-100.000 VND / ngày.
+
+#### Một vài tips nhỏ:
+
+- Chuẩn bị đồ ăn mang theo.
+- Tham quan Đường Lâm thích hợp nhất là đi bộ hoặc đi xe đạp vì bạn có thể đi vào từng ngõ ngách của làng mà không phá vỡ sự tĩnh lặng, yên bình của những ngôi nhà cổ nơi đây.
+- Việc đi xe máy đến mỗi điểm tham quan bạn sẽ phải gửi xe khá cách rách và tốn nhiều tiền gửi xe. Ở một số điểm sẽ chả có người ghi số giữ xe đâu nhưng đến khi các bạn đi ra sẽ có người chạy ra thu tiền.
+- Ở một số điểm tham quan có người của ban quản lý di tích (đeo thẻ) sẽ giới thiệu về địa điểm đó cho các bạn, việc đưa tiền tips không bắt buộc nhưng những ông lão đó khá nhiệt tình giải thích cho các bạn nên chúng ta cũng nên đáp lại sự nhiệt tình của họ.
+- Khi vào tham quan các nhà cổ, các bạn nhớ chào những người trong gia đình, xin phép một cách lịch sự, họ sẽ rất nhiệt tình đón tiếp các bạn. Nếu muốn mua gì làm quà cho người ở nhà thì các bạn có thể mua ngay ở những gia đình này thay vì ngoài chợ.
+- Nếu các bạn muốn sử dụng các dịch vụ như đặt ăn trưa, homestay mà chưa liên hệ trước thì nên tìm địa điểm liên hệ trước rồi hãy đi chơi vì thường những gia đình này khi các bạn đặt mới bắt đầu làm cơm.
