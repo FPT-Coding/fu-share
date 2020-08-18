@@ -24,8 +24,20 @@ module.exports = {
         link: '/',
       },
       {
-        text: 'Thaycacac',
-        link: 'https://thaycacac.github.io/fpt/',
+        text: 'Học tập',
+        link: 'https://fushare.netlify.app/fpt/1-hoc-tap/',
+      },
+      {
+        text: 'Ăn uống',
+        link: 'https://fushare.netlify.app/fpt/2-an-uong/',
+      },
+      {
+        text: 'Chỗ ở',
+        link: 'https://fushare.netlify.app/fpt/3-cho-o/',
+      },
+      {
+        text: 'Vui chơi',
+        link: 'https://fushare.netlify.app/fpt/4-vui-choi/',
       },
     ],
     repoLabel: 'Github',
