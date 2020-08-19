@@ -74,11 +74,11 @@ Những loại đơn cơ bản sau khi có status: Approved là đơn đã đư�
 
 **PRO201 - Front-end Web Development**: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro201](http://fptu.netlify.app/hoc-tap/se/semester-2/pro201)
 
-**PRO192 - Object-Oriented Programming**: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro201](http://fptu.netlify.app/hoc-tap/se/semester-2/pro201)
+**PRO192 - Object-Oriented Programming**: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro192](http://fptu.netlify.app/hoc-tap/se/semester-2/pro192)
 
-**MAD101 - Discrete mathematics**: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro201](http://fptu.netlify.app/hoc-tap/se/semester-2/pro201)
+**MAD101 - Discrete mathematics**: [http://fptu.netlify.app/hoc-tap/se/semester-2/mad101](http://fptu.netlify.app/hoc-tap/se/semester-2/mad101)
 
-**LAB101 - C Lab**: [http://fptu.netlify.app/hoc-tap/se/semester-2/pro201](http://fptu.netlify.app/hoc-tap/se/semester-2/pro201)
+**LAB101 - C Lab**: [http://fptu.netlify.app/hoc-tap/se/semester-2/lab101](http://fptu.netlify.app/hoc-tap/se/semester-2/lab101)
 
 ### Kỳ 3:
 
