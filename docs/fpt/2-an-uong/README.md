@@ -244,6 +244,8 @@ Nhận xét:
 - Diện tích quán rộng rãi, thoáng đãng, phù hợp cho nhóm đông người như lớp học, clb đi ăn.
 - Quán có phục vụ đưa đón tận nơi số lượng ít.
 
+Số điện thoại: 0358555570
+
 ![Nhất nướng Lục quân](/04.png)
 
 ### 5.Quán 113
