@@ -278,8 +278,6 @@ Nhận xét:
 - Giá các món chè vừa phải, phù hợp với sinh viên.
 - Diện tích quán rộng rãi, thoáng đãng phù hợp cho nhóm 10 -12 người.
 
-Số điện thoại: 0433601200
-
 ![Quán chè Duyên](/06.png)
 
 ### 7.Một số quán ăn nổi tiếng khác bạn nên trải nghiệm ít nhất một lần
