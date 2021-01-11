@@ -8,7 +8,7 @@ meta:
 
 # Ăn uống
 
-## Trong Trường
+## Trong Trường - Căng tin I
 
 ### 1. Cơm căng tin
 
@@ -102,7 +102,7 @@ Giá cả:
 
 Nhận xét của người viết: Từng có tham vọng chiếm lĩnh thị trường fastfood của trường, tuy nhiên thất bại do dù có là sinh viên FPT đi chăng nữa thì cũng không phải ai có đủ điều kiện để sử dụng dịch vụ thường xuyên được. Tuy nhiên nên tảng từ việc từng kinh doanh fastfood nên các món ăn của Daily đều khá hấp dẫn, bắt mắt, hệ thống dống hộp mang về ổn, mình thường lựa chọn khi muốn thay đổi địa điểm ăn cơm căng tin thay vì ở dưới căng tin mà là lên phòng :))
 
-### 1.5 Italio
+<!-- ### 1.5 Italio
 
 ![Italio](/italio.jpg)
 
@@ -121,9 +121,21 @@ Giá cả:
 - Đồ ăn cao cấp: 69k - 99k
 - Kem: 20k - 30k
 
-Nhận xét của người viết: Italio là một nhà hàng khá mới, tuy nhiên mình cũng có thử qua 1 vài món và thấy cũng khá ok. Từ chất lượng phục vụ hợp lý đến quy trình chế biến hầu như đều open cho mọi người. Italio rất có khả năng để chiếm được lòng tin từ người dùng.
+Nhận xét của người viết: Italio là một nhà hàng khá mới, tuy nhiên mình cũng có thử qua 1 vài món và thấy cũng khá ok. Từ chất lượng phục vụ hợp lý đến quy trình chế biến hầu như đều open cho mọi người. Italio rất có khả năng để chiếm được lòng tin từ người dùng. -->
 
-### 2. Cơm ship
+### 1.5 Highland Coffee
+
+Giá cả:
+
+- đồ uống: 39k - 60k
+- bánh ngọt: 
+
+
+## Trong trường - Căng tin II
+
+- 
+
+### 3. Cơm ship
 
 ![Cơm ship](/com_ship.png)
 
@@ -133,7 +145,7 @@ Thời điểm đông trong ngày: Về cơm ship, nếu và giờ cao điểm s
 
 Nhận xét của người viết: Không chính thức nhưng mà không 1 fu-er nào không biết công đồng sinh viên chính thức của đại học fpt là group FU-HL đã bị lấp kín mỗi ngày bới những bài đăng bán hàng cơm ship. Nói chung là chúng ta không thể phủ nhận vai trò của cơm ship là giải pháp cho những bạn lười xuống căng tin vì nhiều lý do có thể là nóng, đông, hoặc cơ bản là bạn lười :)). Với số lượng quán ngày càng mọc lên như nấm tác giả cũng chưa dám chắc là thử hết mọi hàng cơm ship trong trường. Đông thời chất lượng cũng không đồng đều nhau nên người viết bên dưới sẽ chỉ liệt kê một vài tiệm mà đã trải nghiệm và có chất lượng ok.
 
-### 1.1 Cơm Dồng Đội
+### 3.1 Cơm Dồng Đội
 
 ![Cơm Dồng Đội](/dong_doi.png)
 
@@ -150,7 +162,7 @@ Hạn chế: vì đầu tư nhiều về mặt hình ảnh của món ăn nên v
 
 Nhận xét của người viết: Cơm đồng đội phục vụ cả ngày nghỉ. Phải nói đây là 1 lựa chọn đáng giá cho bữa ăn.
 
-### 1.2 Cơm Rang Long Xuyên
+### 3.2 Cơm Rang Long Xuyên
 
 ![Cơm Rang Long Xuyên](/long_xuyen.png)
 
@@ -164,7 +176,7 @@ Giá cả: đồng giá 30k
 
 Nhận xét của người viết: Cơm ngon tuy nhiên nếu bạn học slot 4 tầm 12h50 mà đặt cơm lúc 12h thì có khả năng là sẽ bị trễ học :))
 
-### 1.3 Bánh mỳ logan
+### 3.3 Bánh mỳ logan
 
 ![Bánh mỳ logan](/logan.png)
 

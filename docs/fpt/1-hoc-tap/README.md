@@ -156,11 +156,9 @@ Những loại đơn cơ bản sau khi có status: Approved là đơn đã đư�
 
 **SSC102 - Business Communication**: [http://fptu.netlify.app/hoc-tap/se/semester-9/ssc102](http://fptu.netlify.app/hoc-tap/se/semester-9/ssc102)
 
-## Chuyên ngành SE/AI/IA (Từ K15) - 
+## Chuyên ngành SE/AI/IA (Từ K15)
 
-### Kỳ 1:
-
-**MAE101 - Mathematics for Engineering**: [http://fptu.netlify.app/hoc-tap/se/semester-1/mae101](http://fptu.netlify.app/hoc-tap/se/semester-1/mae101)
+[SE/AI/IA](https://2t-team.github.io/Resources/childpage/Documents/DocumentsChildPage/SE_AI_IA/index.html)
 
 ## Quizlet các môn
 
