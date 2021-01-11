@@ -54,7 +54,7 @@ Những loại đơn cơ bản sau khi có status: Approved là đơn đã đư�
 - B2: submit lên form [http://fptu.netlify.app/chia-se](http://fptu.netlify.app/chia-se)
 - B3: khi bài viết của bạn được duyệt, admin sẽ gửi mail cho bạn, cập nhật lên handbook và đăng lên nhóm FU Share
 
-### Chuyên ngành SE
+## Chuyên ngành SE (Từ K14 trở xuống)
 
 ### Kỳ 1:
 
@@ -155,6 +155,12 @@ Những loại đơn cơ bản sau khi có status: Approved là đơn đã đư�
 **VNR201 - Revolutionary line of CPV**: [http://fptu.netlify.app/hoc-tap/se/semester-9/vnr201](http://fptu.netlify.app/hoc-tap/se/semester-9/vnr201)
 
 **SSC102 - Business Communication**: [http://fptu.netlify.app/hoc-tap/se/semester-9/ssc102](http://fptu.netlify.app/hoc-tap/se/semester-9/ssc102)
+
+## Chuyên ngành SE/AI/IA (Từ K15) - 
+
+### Kỳ 1:
+
+**MAE101 - Mathematics for Engineering**: [http://fptu.netlify.app/hoc-tap/se/semester-1/mae101](http://fptu.netlify.app/hoc-tap/se/semester-1/mae101)
 
 ## Quizlet các môn
 

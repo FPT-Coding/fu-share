@@ -1,6 +1,6 @@
 {
   "name": "fu-share",
-  "author": "fpt student<thaycacac@gmail.om>",
+  "author": "fpt student<thaycacac@gmail.com>",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"

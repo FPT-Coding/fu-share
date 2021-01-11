@@ -17,6 +17,7 @@ module.exports = {
       ['../fpt/2-an-uong/', '2. Ăn uống'],
       ['../fpt/3-cho-o/', '3. Chỗ ở'],
       ['../fpt/4-vui-choi/', '4. Vui chơi'],
+      ['../fpt/5-cau-lac-bo/', '5. Các Câu lạc bộ'],
     ],
     nav: [
       {
@@ -38,6 +39,10 @@ module.exports = {
       {
         text: 'Vui chơi',
         link: 'https://fushare.netlify.app/fpt/4-vui-choi/',
+      },
+      {
+        text: 'Câu lạc bộ',
+        link: 'https://fushare.netlify.app/fpt/5-cau-lac-bo/',
       },
     ],
     repoLabel: 'Github',
