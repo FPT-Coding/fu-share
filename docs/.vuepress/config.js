@@ -9,6 +9,7 @@ module.exports = {
         href: '/logo-fu-share.png',
       },
     ],
+    ["script", { src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js", "data-ad-client": "ca-pub-7091146456010058", async: true }]
   ],
   themeConfig: {
     lastUpdated: true,
