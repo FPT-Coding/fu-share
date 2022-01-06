@@ -1,3 +1,10 @@
 [[redirects]]
   from = "*"
   to = "https://kungfutech.edu.vn/fpt"
+[[redirects]]
+  from = "/"
+  to = "https://kungfutech.edu.vn/fpt"
+
+[[redirects]]
+  from = "/*/*"
+  to = "https://kungfutech.edu.vn/fpt"
